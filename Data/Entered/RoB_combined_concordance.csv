@@ -1,0 +1,301 @@
+﻿Author,Study_type,RoB_domain,RoB_score,N_studies,Percent_studies
+Economou,Original,Sequence generation,Low,NA,NA
+Economou,Original,Baseline characteristics,Low,NA,NA
+Economou,Original,Allocation concealment,Low,NA,NA
+Economou,Original,Random housing,Low,NA,NA
+Economou,Original,Blinded caregivers,Low,NA,NA
+Economou,Original,Random outcome assessment,Low,NA,NA
+Economou,Original,Blinding of outcome assessment,Low,NA,NA
+Economou,Original,Incomplete outcome data,Low,NA,NA
+Economou,Original,Selective outcome reporting,Low,NA,NA
+Economou,Original,Other,Low,NA,NA
+Economou,Original,Sequence generation,Unclear,NA,NA
+Economou,Original,Baseline characteristics,Unclear,NA,NA
+Economou,Original,Allocation concealment,Unclear,NA,NA
+Economou,Original,Random housing,Unclear,NA,NA
+Economou,Original,Blinded caregivers,Unclear,NA,NA
+Economou,Original,Random outcome assessment,Unclear,NA,NA
+Economou,Original,Blinding of outcome assessment,Unclear,NA,NA
+Economou,Original,Incomplete outcome data,Unclear,NA,NA
+Economou,Original,Selective outcome reporting,Unclear,NA,NA
+Economou,Original,Other,Unclear,NA,NA
+Economou,Original,Sequence generation,High,NA,NA
+Economou,Original,Baseline characteristics,High,NA,NA
+Economou,Original,Allocation concealment,High,NA,NA
+Economou,Original,Random housing,High,NA,NA
+Economou,Original,Blinded caregivers,High,NA,NA
+Economou,Original,Random outcome assessment,High,NA,NA
+Economou,Original,Blinding of outcome assessment,High,NA,NA
+Economou,Original,Incomplete outcome data,High,NA,NA
+Economou,Original,Selective outcome reporting,High,NA,NA
+Economou,Original,Other,High,NA,NA
+Economou,Replication,Sequence generation,Low,NA,NA
+Economou,Replication,Baseline characteristics,Low,NA,NA
+Economou,Replication,Allocation concealment,Low,NA,NA
+Economou,Replication,Random housing,Low,NA,NA
+Economou,Replication,Blinded caregivers,Low,NA,NA
+Economou,Replication,Random outcome assessment,Low,NA,NA
+Economou,Replication,Blinding of outcome assessment,Low,NA,NA
+Economou,Replication,Incomplete outcome data,Low,NA,NA
+Economou,Replication,Selective outcome reporting,Low,NA,NA
+Economou,Replication,Other,Low,NA,NA
+Economou,Replication,Sequence generation,Unclear,NA,NA
+Economou,Replication,Baseline characteristics,Unclear,NA,NA
+Economou,Replication,Allocation concealment,Unclear,NA,NA
+Economou,Replication,Random housing,Unclear,NA,NA
+Economou,Replication,Blinded caregivers,Unclear,NA,NA
+Economou,Replication,Random outcome assessment,Unclear,NA,NA
+Economou,Replication,Blinding of outcome assessment,Unclear,NA,NA
+Economou,Replication,Incomplete outcome data,Unclear,NA,NA
+Economou,Replication,Selective outcome reporting,Unclear,NA,NA
+Economou,Replication,Other,Unclear,NA,NA
+Economou,Replication,Sequence generation,High,NA,NA
+Economou,Replication,Baseline characteristics,High,NA,NA
+Economou,Replication,Allocation concealment,High,NA,NA
+Economou,Replication,Random housing,High,NA,NA
+Economou,Replication,Blinded caregivers,High,NA,NA
+Economou,Replication,Random outcome assessment,High,NA,NA
+Economou,Replication,Blinding of outcome assessment,High,NA,NA
+Economou,Replication,Incomplete outcome data,High,NA,NA
+Economou,Replication,Selective outcome reporting,High,NA,NA
+Economou,Replication,Other,High,NA,NA
+Gallas-Lopes,Original,Sequence generation,Low,0,0
+Gallas-Lopes,Original,Baseline characteristics,Low,1,5
+Gallas-Lopes,Original,Allocation concealment,Low,0,0
+Gallas-Lopes,Original,Random housing,Low,0,0
+Gallas-Lopes,Original,Blinded caregivers,Low,0,0
+Gallas-Lopes,Original,Random outcome assessment,Low,0,0
+Gallas-Lopes,Original,Blinding of outcome assessment,Low,0,0
+Gallas-Lopes,Original,Incomplete outcome data,Low,12,60
+Gallas-Lopes,Original,Selective outcome reporting,Low,20,100
+Gallas-Lopes,Original,Other,Low,15,75
+Gallas-Lopes,Original,Sequence generation,Unclear,20,100
+Gallas-Lopes,Original,Baseline characteristics,Unclear,19,95
+Gallas-Lopes,Original,Allocation concealment,Unclear,20,100
+Gallas-Lopes,Original,Random housing,Unclear,20,100
+Gallas-Lopes,Original,Blinded caregivers,Unclear,20,100
+Gallas-Lopes,Original,Random outcome assessment,Unclear,20,100
+Gallas-Lopes,Original,Blinding of outcome assessment,Unclear,20,100
+Gallas-Lopes,Original,Incomplete outcome data,Unclear,8,40
+Gallas-Lopes,Original,Selective outcome reporting,Unclear,0,0
+Gallas-Lopes,Original,Other,Unclear,0,0
+Gallas-Lopes,Original,Sequence generation,High,0,0
+Gallas-Lopes,Original,Baseline characteristics,High,0,0
+Gallas-Lopes,Original,Allocation concealment,High,0,0
+Gallas-Lopes,Original,Random housing,High,0,0
+Gallas-Lopes,Original,Blinded caregivers,High,0,0
+Gallas-Lopes,Original,Random outcome assessment,High,0,0
+Gallas-Lopes,Original,Blinding of outcome assessment,High,0,0
+Gallas-Lopes,Original,Incomplete outcome data,High,0,0
+Gallas-Lopes,Original,Selective outcome reporting,High,0,0
+Gallas-Lopes,Original,Other,High,5,25
+Gallas-Lopes,Replication,Sequence generation,Low,0,0
+Gallas-Lopes,Replication,Baseline characteristics,Low,8,40
+Gallas-Lopes,Replication,Allocation concealment,Low,0,0
+Gallas-Lopes,Replication,Random housing,Low,0,0
+Gallas-Lopes,Replication,Blinded caregivers,Low,1,5
+Gallas-Lopes,Replication,Random outcome assessment,Low,0,0
+Gallas-Lopes,Replication,Blinding of outcome assessment,Low,9,45
+Gallas-Lopes,Replication,Incomplete outcome data,Low,9,45
+Gallas-Lopes,Replication,Selective outcome reporting,Low,16,80
+Gallas-Lopes,Replication,Other,Low,7,35
+Gallas-Lopes,Replication,Sequence generation,Unclear,20,100
+Gallas-Lopes,Replication,Baseline characteristics,Unclear,12,60
+Gallas-Lopes,Replication,Allocation concealment,Unclear,20,100
+Gallas-Lopes,Replication,Random housing,Unclear,20,100
+Gallas-Lopes,Replication,Blinded caregivers,Unclear,14,70
+Gallas-Lopes,Replication,Random outcome assessment,Unclear,20,100
+Gallas-Lopes,Replication,Blinding of outcome assessment,Unclear,11,55
+Gallas-Lopes,Replication,Incomplete outcome data,Unclear,7,35
+Gallas-Lopes,Replication,Selective outcome reporting,Unclear,2,10
+Gallas-Lopes,Replication,Other,Unclear,6,30
+Gallas-Lopes,Replication,Sequence generation,High,0,0
+Gallas-Lopes,Replication,Baseline characteristics,High,0,0
+Gallas-Lopes,Replication,Allocation concealment,High,0,0
+Gallas-Lopes,Replication,Random housing,High,0,0
+Gallas-Lopes,Replication,Blinded caregivers,High,5,25
+Gallas-Lopes,Replication,Random outcome assessment,High,0,0
+Gallas-Lopes,Replication,Blinding of outcome assessment,High,0,0
+Gallas-Lopes,Replication,Incomplete outcome data,High,4,20
+Gallas-Lopes,Replication,Selective outcome reporting,High,2,10
+Gallas-Lopes,Replication,Other,High,7,35
+Lalu,Original,Sequence generation,Low,NA,NA
+Lalu,Original,Baseline characteristics,Low,NA,NA
+Lalu,Original,Allocation concealment,Low,NA,NA
+Lalu,Original,Random housing,Low,NA,NA
+Lalu,Original,Blinded caregivers,Low,NA,NA
+Lalu,Original,Random outcome assessment,Low,NA,NA
+Lalu,Original,Blinding of outcome assessment,Low,NA,NA
+Lalu,Original,Incomplete outcome data,Low,NA,NA
+Lalu,Original,Selective outcome reporting,Low,NA,NA
+Lalu,Original,Other,Low,NA,NA
+Lalu,Original,Sequence generation,Unclear,NA,NA
+Lalu,Original,Baseline characteristics,Unclear,NA,NA
+Lalu,Original,Allocation concealment,Unclear,NA,NA
+Lalu,Original,Random housing,Unclear,NA,NA
+Lalu,Original,Blinded caregivers,Unclear,NA,NA
+Lalu,Original,Random outcome assessment,Unclear,NA,NA
+Lalu,Original,Blinding of outcome assessment,Unclear,NA,NA
+Lalu,Original,Incomplete outcome data,Unclear,NA,NA
+Lalu,Original,Selective outcome reporting,Unclear,NA,NA
+Lalu,Original,Other,Unclear,NA,NA
+Lalu,Original,Sequence generation,High,NA,NA
+Lalu,Original,Baseline characteristics,High,NA,NA
+Lalu,Original,Allocation concealment,High,NA,NA
+Lalu,Original,Random housing,High,NA,NA
+Lalu,Original,Blinded caregivers,High,NA,NA
+Lalu,Original,Random outcome assessment,High,NA,NA
+Lalu,Original,Blinding of outcome assessment,High,NA,NA
+Lalu,Original,Incomplete outcome data,High,NA,NA
+Lalu,Original,Selective outcome reporting,High,NA,NA
+Lalu,Original,Other,High,NA,NA
+Lalu,Replication,Sequence generation,Low,NA,NA
+Lalu,Replication,Baseline characteristics,Low,NA,NA
+Lalu,Replication,Allocation concealment,Low,NA,NA
+Lalu,Replication,Random housing,Low,NA,NA
+Lalu,Replication,Blinded caregivers,Low,NA,NA
+Lalu,Replication,Random outcome assessment,Low,NA,NA
+Lalu,Replication,Blinding of outcome assessment,Low,NA,NA
+Lalu,Replication,Incomplete outcome data,Low,NA,NA
+Lalu,Replication,Selective outcome reporting,Low,NA,NA
+Lalu,Replication,Other,Low,NA,NA
+Lalu,Replication,Sequence generation,Unclear,NA,NA
+Lalu,Replication,Baseline characteristics,Unclear,NA,NA
+Lalu,Replication,Allocation concealment,Unclear,NA,NA
+Lalu,Replication,Random housing,Unclear,NA,NA
+Lalu,Replication,Blinded caregivers,Unclear,NA,NA
+Lalu,Replication,Random outcome assessment,Unclear,NA,NA
+Lalu,Replication,Blinding of outcome assessment,Unclear,NA,NA
+Lalu,Replication,Incomplete outcome data,Unclear,NA,NA
+Lalu,Replication,Selective outcome reporting,Unclear,NA,NA
+Lalu,Replication,Other,Unclear,NA,NA
+Lalu,Replication,Sequence generation,High,NA,NA
+Lalu,Replication,Baseline characteristics,High,NA,NA
+Lalu,Replication,Allocation concealment,High,NA,NA
+Lalu,Replication,Random housing,High,NA,NA
+Lalu,Replication,Blinded caregivers,High,NA,NA
+Lalu,Replication,Random outcome assessment,High,NA,NA
+Lalu,Replication,Blinding of outcome assessment,High,NA,NA
+Lalu,Replication,Incomplete outcome data,High,NA,NA
+Lalu,Replication,Selective outcome reporting,High,NA,NA
+Lalu,Replication,Other,High,NA,NA
+Ramage,Original,Sequence generation,Low,0,0
+Ramage,Original,Baseline characteristics,Low,21,91.3
+Ramage,Original,Allocation concealment,Low,2,8.7
+Ramage,Original,Random housing,Low,0,0
+Ramage,Original,Blinded caregivers,Low,0,0
+Ramage,Original,Random outcome assessment,Low,5,21.7
+Ramage,Original,Blinding of outcome assessment,Low,7,30.4
+Ramage,Original,Incomplete outcome data,Low,7,30.4
+Ramage,Original,Selective outcome reporting,Low,23,100
+Ramage,Original,Other,Low,20,87.5
+Ramage,Original,Sequence generation,Unclear,10,43.5
+Ramage,Original,Baseline characteristics,Unclear,2,8.7
+Ramage,Original,Allocation concealment,Unclear,2,8.7
+Ramage,Original,Random housing,Unclear,3,13
+Ramage,Original,Blinded caregivers,Unclear,0,0
+Ramage,Original,Random outcome assessment,Unclear,0,0
+Ramage,Original,Blinding of outcome assessment,Unclear,0,0
+Ramage,Original,Incomplete outcome data,Unclear,15,65.2
+Ramage,Original,Selective outcome reporting,Unclear,0,0
+Ramage,Original,Other,Unclear,0,0
+Ramage,Original,Sequence generation,High,13,56.5
+Ramage,Original,Baseline characteristics,High,0,0
+Ramage,Original,Allocation concealment,High,19,82.6
+Ramage,Original,Random housing,High,20,87
+Ramage,Original,Blinded caregivers,High,23,100
+Ramage,Original,Random outcome assessment,High,18,78.3
+Ramage,Original,Blinding of outcome assessment,High,16,69.6
+Ramage,Original,Incomplete outcome data,High,1,4.3
+Ramage,Original,Selective outcome reporting,High,0,0
+Ramage,Original,Other,High,3,12.5
+Ramage,Replication,Sequence generation,Low,0,0
+Ramage,Replication,Baseline characteristics,Low,4,15.4
+Ramage,Replication,Allocation concealment,Low,0,0
+Ramage,Replication,Random housing,Low,1,3.8
+Ramage,Replication,Blinded caregivers,Low,0,0
+Ramage,Replication,Random outcome assessment,Low,0,0
+Ramage,Replication,Blinding of outcome assessment,Low,6,23.1
+Ramage,Replication,Incomplete outcome data,Low,10,38.5
+Ramage,Replication,Selective outcome reporting,Low,0,0
+Ramage,Replication,Other,Low,12,46.2
+Ramage,Replication,Sequence generation,Unclear,26,100
+Ramage,Replication,Baseline characteristics,Unclear,22,84.6
+Ramage,Replication,Allocation concealment,Unclear,26,100
+Ramage,Replication,Random housing,Unclear,25,96.2
+Ramage,Replication,Blinded caregivers,Unclear,21,80.8
+Ramage,Replication,Random outcome assessment,Unclear,26,100
+Ramage,Replication,Blinding of outcome assessment,Unclear,19,73.1
+Ramage,Replication,Incomplete outcome data,Unclear,16,61.5
+Ramage,Replication,Selective outcome reporting,Unclear,16,61.5
+Ramage,Replication,Other,Unclear,9,34.6
+Ramage,Replication,Sequence generation,High,0,0
+Ramage,Replication,Baseline characteristics,High,0,0
+Ramage,Replication,Allocation concealment,High,0,0
+Ramage,Replication,Random housing,High,0,0
+Ramage,Replication,Blinded caregivers,High,5,19.2
+Ramage,Replication,Random outcome assessment,High,0,0
+Ramage,Replication,Blinding of outcome assessment,High,1,3.8
+Ramage,Replication,Incomplete outcome data,High,0,0
+Ramage,Replication,Selective outcome reporting,High,10,38.5
+Ramage,Replication,Other,High,5,19.2
+Vojvodic,Original,Sequence generation,Low,0,0
+Vojvodic,Original,Baseline characteristics,Low,0,0
+Vojvodic,Original,Allocation concealment,Low,1,5.263157895
+Vojvodic,Original,Random housing,Low,0,0
+Vojvodic,Original,Blinded caregivers,Low,2,10.52631579
+Vojvodic,Original,Random outcome assessment,Low,0,0
+Vojvodic,Original,Blinding of outcome assessment,Low,3,15.78947368
+Vojvodic,Original,Incomplete outcome data,Low,2,10.52631579
+Vojvodic,Original,Selective outcome reporting,Low,4,21.05263158
+Vojvodic,Original,Other,Low,4,21.05263158
+Vojvodic,Original,Sequence generation,Unclear,18,94.73684211
+Vojvodic,Original,Baseline characteristics,Unclear,19,100
+Vojvodic,Original,Allocation concealment,Unclear,14,73.68421053
+Vojvodic,Original,Random housing,Unclear,19,100
+Vojvodic,Original,Blinded caregivers,Unclear,7,36.84210526
+Vojvodic,Original,Random outcome assessment,Unclear,19,100
+Vojvodic,Original,Blinding of outcome assessment,Unclear,16,84.21052632
+Vojvodic,Original,Incomplete outcome data,Unclear,6,31.57894737
+Vojvodic,Original,Selective outcome reporting,Unclear,0,0
+Vojvodic,Original,Other,Unclear,12,63.15789474
+Vojvodic,Original,Sequence generation,High,1,5.263157895
+Vojvodic,Original,Baseline characteristics,High,0,0
+Vojvodic,Original,Allocation concealment,High,4,21.05263158
+Vojvodic,Original,Random housing,High,0,0
+Vojvodic,Original,Blinded caregivers,High,10,52.63157895
+Vojvodic,Original,Random outcome assessment,High,0,0
+Vojvodic,Original,Blinding of outcome assessment,High,0,0
+Vojvodic,Original,Incomplete outcome data,High,11,57.89473684
+Vojvodic,Original,Selective outcome reporting,High,15,78.94736842
+Vojvodic,Original,Other,High,3,15.78947368
+Vojvodic,Replication,Sequence generation,Low,0,0
+Vojvodic,Replication,Baseline characteristics,Low,1,5.263157895
+Vojvodic,Replication,Allocation concealment,Low,0,0
+Vojvodic,Replication,Random housing,Low,0,0
+Vojvodic,Replication,Blinded caregivers,Low,0,0
+Vojvodic,Replication,Random outcome assessment,Low,0,0
+Vojvodic,Replication,Blinding of outcome assessment,Low,3,15.78947368
+Vojvodic,Replication,Incomplete outcome data,Low,3,15.78947368
+Vojvodic,Replication,Selective outcome reporting,Low,1,5.263157895
+Vojvodic,Replication,Other,Low,7,36.84210526
+Vojvodic,Replication,Sequence generation,Unclear,19,100
+Vojvodic,Replication,Baseline characteristics,Unclear,18,94.73684211
+Vojvodic,Replication,Allocation concealment,Unclear,19,100
+Vojvodic,Replication,Random housing,Unclear,19,100
+Vojvodic,Replication,Blinded caregivers,Unclear,19,100
+Vojvodic,Replication,Random outcome assessment,Unclear,19,100
+Vojvodic,Replication,Blinding of outcome assessment,Unclear,16,84.21052632
+Vojvodic,Replication,Incomplete outcome data,Unclear,10,52.63157895
+Vojvodic,Replication,Selective outcome reporting,Unclear,4,21.05263158
+Vojvodic,Replication,Other,Unclear,7,36.84210526
+Vojvodic,Replication,Sequence generation,High,0,0
+Vojvodic,Replication,Baseline characteristics,High,0,0
+Vojvodic,Replication,Allocation concealment,High,0,0
+Vojvodic,Replication,Random housing,High,0,0
+Vojvodic,Replication,Blinded caregivers,High,0,0
+Vojvodic,Replication,Random outcome assessment,High,0,0
+Vojvodic,Replication,Blinding of outcome assessment,High,0,0
+Vojvodic,Replication,Incomplete outcome data,High,6,31.57894737
+Vojvodic,Replication,Selective outcome reporting,High,14,73.68421053
+Vojvodic,Replication,Other,High,5,26.31578947
