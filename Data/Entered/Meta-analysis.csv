@@ -1,5 +1,5 @@
 ﻿Author,Outcome,Method details,Original effect size,Original LCI,Original UCI,Replication effect size,Replication LCI,Replication UCI,,,
-Economou,NA,Not specifiied,-2.19,-2.48,-1.91,-1.85,-2.13,-1.58,,,
+Economou,Infarct volume,Not specifiied,-2.19,-2.48,-1.91,-1.85,-2.13,-1.58,,,
 Gallas-Lopes,Depressive-like behaviours,Standard,-1.07,-1.41,-0.74,-1.08,-1.28,-0.87,,,
 Gallas-Lopes,Depressive-like behaviours,Robust variance estimation (RVE),-1.07,-1.41,-0.74,-1.15,-1.43,-0.87,,,
 Lalu,% reduction in infarct size,Not specified,43.3,34.7,52.8,45.7,38.2,53.2,,,
