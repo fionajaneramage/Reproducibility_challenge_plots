@@ -1,0 +1,1272 @@
+﻿Author,Type,Study,Domain,Domain_short,Risk_Type
+Ramage,Original,"Ãlvarez-RuÃ­z and Carrillo-Mora, 2013",Selection bias: sequence generation,D1,High
+Ramage,Replication,"Ãlvarez-RuÃ­z and Carrillo-Mora, 2013",Selection bias: sequence generation,D1,Unclear
+Ramage,Original,"Ãlvarez-RuÃ­z and Carrillo-Mora, 2013",Other sources of bias,D10,Low
+Ramage,Original,"Ãlvarez-RuÃ­z and Carrillo-Mora, 2013",Selection bias: baseline characteristics,D2,Low
+Ramage,Original,"Ãlvarez-RuÃ­z and Carrillo-Mora, 2013",Selection bias: allocation concealment,D3,Low
+Ramage,Original,"Ãlvarez-RuÃ­z and Carrillo-Mora, 2013",Performance bias: random housing,D4,High
+Ramage,Original,"Ãlvarez-RuÃ­z and Carrillo-Mora, 2013",Performance bias: blinding,D5,High
+Ramage,Original,"Ãlvarez-RuÃ­z and Carrillo-Mora, 2013",Detection bias: random outcome assessment,D6,High
+Ramage,Original,"Ãlvarez-RuÃ­z and Carrillo-Mora, 2013",Detection bias: blinding,D7,High
+Ramage,Original,"Ãlvarez-RuÃ­z and Carrillo-Mora, 2013",Attrition bias: incomplete outcome data,D8,Unclear
+Ramage,Original,"Ãlvarez-RuÃ­z and Carrillo-Mora, 2013",Reporting bias: selective outcome reporting,D9,Low
+Ramage,Replication,"Ãlvarez-RuÃ­z and Carrillo-Mora, 2013",Other sources of bias,D10,Low
+Ramage,Replication,"Ãlvarez-RuÃ­z and Carrillo-Mora, 2013",Selection bias: baseline characteristics,D2,Unclear
+Ramage,Replication,"Ãlvarez-RuÃ­z and Carrillo-Mora, 2013",Selection bias: allocation concealment,D3,Unclear
+Ramage,Replication,"Ãlvarez-RuÃ­z and Carrillo-Mora, 2013",Performance bias: random housing,D4,Unclear
+Ramage,Replication,"Ãlvarez-RuÃ­z and Carrillo-Mora, 2013",Performance bias: blinding,D5,Unclear
+Ramage,Replication,"Ãlvarez-RuÃ­z and Carrillo-Mora, 2013",Detection bias: random outcome assessment,D6,Unclear
+Ramage,Replication,"Ãlvarez-RuÃ­z and Carrillo-Mora, 2013",Detection bias: blinding,D7,Low
+Ramage,Replication,"Ãlvarez-RuÃ­z and Carrillo-Mora, 2013",Attrition bias: incomplete outcome data,D8,Unclear
+Ramage,Replication,"Ãlvarez-RuÃ­z and Carrillo-Mora, 2013",Reporting bias: selective outcome reporting,D9,Unclear
+Gallas-Lopes,Replication,"Amorim, 2017",Selection bias: sequence generation,D1,Unclear
+Gallas-Lopes,Replication,"Amorim, 2017",Selection bias: baseline characteristics,D2,Low
+Gallas-Lopes,Replication,"Amorim, 2017",Selection bias: allocation concealment,D3,Unclear
+Gallas-Lopes,Replication,"Amorim, 2017",Performance bias: random housing,D4,Unclear
+Gallas-Lopes,Replication,"Amorim, 2017",Performance bias: blinding,D5,Low
+Gallas-Lopes,Replication,"Amorim, 2017",Detection bias: random outcome assessment,D6,Unclear
+Gallas-Lopes,Replication,"Amorim, 2017",Detection bias: blinding,D7,Low
+Gallas-Lopes,Replication,"Amorim, 2017",Attrition bias: incomplete outcome data,D8,Low
+Gallas-Lopes,Replication,"Amorim, 2017",Reporting bias: selective outcome reporting,D9,Low
+Gallas-Lopes,Replication,"Amorim, 2017",Other sources of bias,D10,High
+Gallas-Lopes,Original,"Amorim, 2017",Selection bias: sequence generation,D1,Unclear
+Gallas-Lopes,Original,"Amorim, 2017",Selection bias: baseline characteristics,D2,Low
+Gallas-Lopes,Original,"Amorim, 2017",Selection bias: allocation concealment,D3,Unclear
+Gallas-Lopes,Original,"Amorim, 2017",Performance bias: random housing,D4,Unclear
+Gallas-Lopes,Original,"Amorim, 2017",Performance bias: blinding,D5,Unclear
+Gallas-Lopes,Original,"Amorim, 2017",Detection bias: random outcome assessment,D6,Unclear
+Gallas-Lopes,Original,"Amorim, 2017",Detection bias: blinding,D7,Unclear
+Gallas-Lopes,Original,"Amorim, 2017",Attrition bias: incomplete outcome data,D8,Unclear
+Gallas-Lopes,Original,"Amorim, 2017",Reporting bias: selective outcome reporting,D9,Low
+Gallas-Lopes,Original,"Amorim, 2017",Other sources of bias,D10,Low
+Vojvodic,Replication,Bonova 2016,Selection bias: sequence generation,D1,Unclear
+Vojvodic,Replication,Bonova 2016,Selection bias: baseline characteristics,D2,Unclear
+Vojvodic,Replication,Bonova 2016,Selection bias: allocation concealment,D3,Unclear
+Vojvodic,Replication,Bonova 2016,Performance bias: random housing,D4,Unclear
+Vojvodic,Replication,Bonova 2016,Performance bias: blinding,D5,Unclear
+Vojvodic,Replication,Bonova 2016,Detection bias: random outcome assessment,D6,Unclear
+Vojvodic,Replication,Bonova 2016,Detection bias: blinding,D7,Low
+Vojvodic,Replication,Bonova 2016,Attrition bias: incomplete outcome data,D8,High
+Vojvodic,Replication,Bonova 2016,Reporting bias: selective outcome reporting,D9,High
+Vojvodic,Replication,Bonova 2016,Other sources of bias,D10,Low
+Vojvodic,Original,Bonova 2016,Selection bias: sequence generation,D1,Unclear
+Vojvodic,Original,Bonova 2016,Selection bias: baseline characteristics,D2,Unclear
+Vojvodic,Original,Bonova 2016,Selection bias: allocation concealment,D3,Unclear
+Vojvodic,Original,Bonova 2016,Performance bias: random housing,D4,Unclear
+Vojvodic,Original,Bonova 2016,Performance bias: blinding,D5,Unclear
+Vojvodic,Original,Bonova 2016,Detection bias: random outcome assessment,D6,Unclear
+Vojvodic,Original,Bonova 2016,Detection bias: blinding,D7,Low
+Vojvodic,Original,Bonova 2016,Attrition bias: incomplete outcome data,D8,High
+Vojvodic,Original,Bonova 2016,Reporting bias: selective outcome reporting,D9,High
+Vojvodic,Original,Bonova 2016,Other sources of bias,D10,Unclear
+Ramage,Original,"Budni et al., 2017",Selection bias: sequence generation,D1,High
+Ramage,Replication,"Budni et al., 2017",Selection bias: sequence generation,D1,Unclear
+Ramage,Original,"Budni et al., 2017",Other sources of bias,D10,Low
+Ramage,Original,"Budni et al., 2017",Selection bias: baseline characteristics,D2,Low
+Ramage,Original,"Budni et al., 2017",Selection bias: allocation concealment,D3,High
+Ramage,Original,"Budni et al., 2017",Performance bias: random housing,D4,High
+Ramage,Original,"Budni et al., 2017",Performance bias: blinding,D5,High
+Ramage,Original,"Budni et al., 2017",Detection bias: random outcome assessment,D6,High
+Ramage,Original,"Budni et al., 2017",Detection bias: blinding,D7,High
+Ramage,Original,"Budni et al., 2017",Attrition bias: incomplete outcome data,D8,High
+Ramage,Original,"Budni et al., 2017",Reporting bias: selective outcome reporting,D9,Low
+Ramage,Replication,"Budni et al., 2017",Other sources of bias,D10,Unclear
+Ramage,Replication,"Budni et al., 2017",Selection bias: baseline characteristics,D2,Unclear
+Ramage,Replication,"Budni et al., 2017",Selection bias: allocation concealment,D3,Unclear
+Ramage,Replication,"Budni et al., 2017",Performance bias: random housing,D4,Unclear
+Ramage,Replication,"Budni et al., 2017",Performance bias: blinding,D5,Unclear
+Ramage,Replication,"Budni et al., 2017",Detection bias: random outcome assessment,D6,Unclear
+Ramage,Replication,"Budni et al., 2017",Detection bias: blinding,D7,Unclear
+Ramage,Replication,"Budni et al., 2017",Attrition bias: incomplete outcome data,D8,Unclear
+Ramage,Replication,"Budni et al., 2017",Reporting bias: selective outcome reporting,D9,Unclear
+Gallas-Lopes,Replication,"Burke, 2014",Selection bias: sequence generation,D1,Unclear
+Gallas-Lopes,Replication,"Burke, 2014",Selection bias: baseline characteristics,D2,Unclear
+Gallas-Lopes,Replication,"Burke, 2014",Selection bias: allocation concealment,D3,Unclear
+Gallas-Lopes,Replication,"Burke, 2014",Performance bias: random housing,D4,Unclear
+Gallas-Lopes,Replication,"Burke, 2014",Performance bias: blinding,D5,Unclear
+Gallas-Lopes,Replication,"Burke, 2014",Detection bias: random outcome assessment,D6,Unclear
+Gallas-Lopes,Replication,"Burke, 2014",Detection bias: blinding,D7,Unclear
+Gallas-Lopes,Replication,"Burke, 2014",Attrition bias: incomplete outcome data,D8,Unclear
+Gallas-Lopes,Replication,"Burke, 2014",Reporting bias: selective outcome reporting,D9,Low
+Gallas-Lopes,Replication,"Burke, 2014",Other sources of bias,D10,Low
+Gallas-Lopes,Original,"Burke, 2014",Selection bias: sequence generation,D1,Unclear
+Gallas-Lopes,Original,"Burke, 2014",Selection bias: baseline characteristics,D2,Unclear
+Gallas-Lopes,Original,"Burke, 2014",Selection bias: allocation concealment,D3,Unclear
+Gallas-Lopes,Original,"Burke, 2014",Performance bias: random housing,D4,Unclear
+Gallas-Lopes,Original,"Burke, 2014",Performance bias: blinding,D5,Unclear
+Gallas-Lopes,Original,"Burke, 2014",Detection bias: random outcome assessment,D6,Unclear
+Gallas-Lopes,Original,"Burke, 2014",Detection bias: blinding,D7,Unclear
+Gallas-Lopes,Original,"Burke, 2014",Attrition bias: incomplete outcome data,D8,Unclear
+Gallas-Lopes,Original,"Burke, 2014",Reporting bias: selective outcome reporting,D9,Low
+Gallas-Lopes,Original,"Burke, 2014",Other sources of bias,D10,Low
+Ramage,Replication,"Cardillo G. M., De-Paula V. J. R., Ikenaga E. H., Costa L. R., Catanozi S., Schaeffer E. L., Gattaz W. F., Kerr D. S., Forlenza O. V",Other sources of bias,D10,High
+Ramage,Replication,"Cardillo G. M., De-Paula V. J. R., Ikenaga E. H., Costa L. R., Catanozi S., Schaeffer E. L., Gattaz W. F., Kerr D. S., Forlenza O. V",Selection bias: baseline characteristics,D2,Unclear
+Ramage,Replication,"Cardillo G. M., De-Paula V. J. R., Ikenaga E. H., Costa L. R., Catanozi S., Schaeffer E. L., Gattaz W. F., Kerr D. S., Forlenza O. V",Selection bias: allocation concealment,D3,Unclear
+Ramage,Replication,"Cardillo G. M., De-Paula V. J. R., Ikenaga E. H., Costa L. R., Catanozi S., Schaeffer E. L., Gattaz W. F., Kerr D. S., Forlenza O. V",Performance bias: random housing,D4,Unclear
+Ramage,Replication,"Cardillo G. M., De-Paula V. J. R., Ikenaga E. H., Costa L. R., Catanozi S., Schaeffer E. L., Gattaz W. F., Kerr D. S., Forlenza O. V",Performance bias: blinding,D5,High
+Ramage,Replication,"Cardillo G. M., De-Paula V. J. R., Ikenaga E. H., Costa L. R., Catanozi S., Schaeffer E. L., Gattaz W. F., Kerr D. S., Forlenza O. V",Detection bias: random outcome assessment,D6,Unclear
+Ramage,Replication,"Cardillo G. M., De-Paula V. J. R., Ikenaga E. H., Costa L. R., Catanozi S., Schaeffer E. L., Gattaz W. F., Kerr D. S., Forlenza O. V",Detection bias: blinding,D7,Unclear
+Ramage,Replication,"Cardillo G. M., De-Paula V. J. R., Ikenaga E. H., Costa L. R., Catanozi S., Schaeffer E. L., Gattaz W. F., Kerr D. S., Forlenza O. V",Attrition bias: incomplete outcome data,D8,Low
+Ramage,Replication,"Cardillo G. M., De-Paula V. J. R., Ikenaga E. H., Costa L. R., Catanozi S., Schaeffer E. L., Gattaz W. F., Kerr D. S., Forlenza O. V",Reporting bias: selective outcome reporting,D9,Unclear
+Ramage,Replication,Carrillo-Mora P. Ãlvarez-RuÃ­z Y.,Selection bias: sequence generation,D1,Unclear
+Vojvodic,Replication,Chen 2018a,Selection bias: sequence generation,D1,Unclear
+Vojvodic,Replication,Chen 2018a,Selection bias: baseline characteristics,D2,Low
+Vojvodic,Replication,Chen 2018a,Selection bias: allocation concealment,D3,Unclear
+Vojvodic,Replication,Chen 2018a,Performance bias: random housing,D4,Unclear
+Vojvodic,Replication,Chen 2018a,Performance bias: blinding,D5,Unclear
+Vojvodic,Replication,Chen 2018a,Detection bias: random outcome assessment,D6,Unclear
+Vojvodic,Replication,Chen 2018a,Detection bias: blinding,D7,Unclear
+Vojvodic,Replication,Chen 2018a,Attrition bias: incomplete outcome data,D8,Low
+Vojvodic,Replication,Chen 2018a,Reporting bias: selective outcome reporting,D9,High
+Vojvodic,Replication,Chen 2018a,Other sources of bias,D10,Low
+Vojvodic,Original,Chen 2018a,Selection bias: sequence generation,D1,Unclear
+Vojvodic,Original,Chen 2018a,Selection bias: baseline characteristics,D2,Unclear
+Vojvodic,Original,Chen 2018a,Selection bias: allocation concealment,D3,Unclear
+Vojvodic,Original,Chen 2018a,Performance bias: random housing,D4,Unclear
+Vojvodic,Original,Chen 2018a,Performance bias: blinding,D5,Unclear
+Vojvodic,Original,Chen 2018a,Detection bias: random outcome assessment,D6,Unclear
+Vojvodic,Original,Chen 2018a,Detection bias: blinding,D7,Unclear
+Vojvodic,Original,Chen 2018a,Attrition bias: incomplete outcome data,D8,High
+Vojvodic,Original,Chen 2018a,Reporting bias: selective outcome reporting,D9,High
+Vojvodic,Original,Chen 2018a,Other sources of bias,D10,Low
+Vojvodic,Replication,Chen 2018b,Selection bias: sequence generation,D1,Unclear
+Vojvodic,Replication,Chen 2018b,Selection bias: baseline characteristics,D2,Unclear
+Vojvodic,Replication,Chen 2018b,Selection bias: allocation concealment,D3,Unclear
+Vojvodic,Replication,Chen 2018b,Performance bias: random housing,D4,Unclear
+Vojvodic,Replication,Chen 2018b,Performance bias: blinding,D5,Unclear
+Vojvodic,Replication,Chen 2018b,Detection bias: random outcome assessment,D6,Unclear
+Vojvodic,Replication,Chen 2018b,Detection bias: blinding,D7,Unclear
+Vojvodic,Replication,Chen 2018b,Attrition bias: incomplete outcome data,D8,Unclear
+Vojvodic,Replication,Chen 2018b,Reporting bias: selective outcome reporting,D9,Unclear
+Vojvodic,Replication,Chen 2018b,Other sources of bias,D10,Low
+Vojvodic,Original,Chen 2018b,Selection bias: sequence generation,D1,Unclear
+Vojvodic,Original,Chen 2018b,Selection bias: baseline characteristics,D2,Unclear
+Vojvodic,Original,Chen 2018b,Selection bias: allocation concealment,D3,High
+Vojvodic,Original,Chen 2018b,Performance bias: random housing,D4,Unclear
+Vojvodic,Original,Chen 2018b,Performance bias: blinding,D5,High
+Vojvodic,Original,Chen 2018b,Detection bias: random outcome assessment,D6,Unclear
+Vojvodic,Original,Chen 2018b,Detection bias: blinding,D7,Unclear
+Vojvodic,Original,Chen 2018b,Attrition bias: incomplete outcome data,D8,High
+Vojvodic,Original,Chen 2018b,Reporting bias: selective outcome reporting,D9,High
+Vojvodic,Original,Chen 2018b,Other sources of bias,D10,Unclear
+Vojvodic,Replication,Cheng 2014,Selection bias: sequence generation,D1,Unclear
+Vojvodic,Replication,Cheng 2014,Selection bias: baseline characteristics,D2,Unclear
+Vojvodic,Replication,Cheng 2014,Selection bias: allocation concealment,D3,Unclear
+Vojvodic,Replication,Cheng 2014,Performance bias: random housing,D4,Unclear
+Vojvodic,Replication,Cheng 2014,Performance bias: blinding,D5,Unclear
+Vojvodic,Replication,Cheng 2014,Detection bias: random outcome assessment,D6,Unclear
+Vojvodic,Replication,Cheng 2014,Detection bias: blinding,D7,Unclear
+Vojvodic,Replication,Cheng 2014,Attrition bias: incomplete outcome data,D8,Unclear
+Vojvodic,Replication,Cheng 2014,Reporting bias: selective outcome reporting,D9,Unclear
+Vojvodic,Replication,Cheng 2014,Other sources of bias,D10,Unclear
+Vojvodic,Original,Cheng 2014,Selection bias: sequence generation,D1,Unclear
+Vojvodic,Original,Cheng 2014,Selection bias: baseline characteristics,D2,Unclear
+Vojvodic,Original,Cheng 2014,Selection bias: allocation concealment,D3,High
+Vojvodic,Original,Cheng 2014,Performance bias: random housing,D4,Unclear
+Vojvodic,Original,Cheng 2014,Performance bias: blinding,D5,High
+Vojvodic,Original,Cheng 2014,Detection bias: random outcome assessment,D6,Unclear
+Vojvodic,Original,Cheng 2014,Detection bias: blinding,D7,Unclear
+Vojvodic,Original,Cheng 2014,Attrition bias: incomplete outcome data,D8,Unclear
+Vojvodic,Original,Cheng 2014,Reporting bias: selective outcome reporting,D9,High
+Vojvodic,Original,Cheng 2014,Other sources of bias,D10,High
+Vojvodic,Replication,Cheng 2018,Selection bias: sequence generation,D1,Unclear
+Vojvodic,Replication,Cheng 2018,Selection bias: baseline characteristics,D2,Unclear
+Vojvodic,Replication,Cheng 2018,Selection bias: allocation concealment,D3,Unclear
+Vojvodic,Replication,Cheng 2018,Performance bias: random housing,D4,Unclear
+Vojvodic,Replication,Cheng 2018,Performance bias: blinding,D5,Unclear
+Vojvodic,Replication,Cheng 2018,Detection bias: random outcome assessment,D6,Unclear
+Vojvodic,Replication,Cheng 2018,Detection bias: blinding,D7,Unclear
+Vojvodic,Replication,Cheng 2018,Attrition bias: incomplete outcome data,D8,Low
+Vojvodic,Replication,Cheng 2018,Reporting bias: selective outcome reporting,D9,Unclear
+Vojvodic,Replication,Cheng 2018,Other sources of bias,D10,Low
+Vojvodic,Original,Cheng 2018,Selection bias: sequence generation,D1,Unclear
+Vojvodic,Original,Cheng 2018,Selection bias: baseline characteristics,D2,Unclear
+Vojvodic,Original,Cheng 2018,Selection bias: allocation concealment,D3,Unclear
+Vojvodic,Original,Cheng 2018,Performance bias: random housing,D4,Unclear
+Vojvodic,Original,Cheng 2018,Performance bias: blinding,D5,High
+Vojvodic,Original,Cheng 2018,Detection bias: random outcome assessment,D6,Unclear
+Vojvodic,Original,Cheng 2018,Detection bias: blinding,D7,Unclear
+Vojvodic,Original,Cheng 2018,Attrition bias: incomplete outcome data,D8,High
+Vojvodic,Original,Cheng 2018,Reporting bias: selective outcome reporting,D9,High
+Vojvodic,Original,Cheng 2018,Other sources of bias,D10,Unclear
+Gallas-Lopes,Replication,"Chijiwa, 2015",Selection bias: sequence generation,D1,Unclear
+Gallas-Lopes,Replication,"Chijiwa, 2015",Selection bias: baseline characteristics,D2,Low
+Gallas-Lopes,Replication,"Chijiwa, 2015",Selection bias: allocation concealment,D3,Unclear
+Gallas-Lopes,Replication,"Chijiwa, 2015",Performance bias: random housing,D4,Unclear
+Gallas-Lopes,Replication,"Chijiwa, 2015",Performance bias: blinding,D5,Unclear
+Gallas-Lopes,Replication,"Chijiwa, 2015",Detection bias: random outcome assessment,D6,Unclear
+Gallas-Lopes,Replication,"Chijiwa, 2015",Detection bias: blinding,D7,Low
+Gallas-Lopes,Replication,"Chijiwa, 2015",Attrition bias: incomplete outcome data,D8,Low
+Gallas-Lopes,Replication,"Chijiwa, 2015",Reporting bias: selective outcome reporting,D9,Low
+Gallas-Lopes,Replication,"Chijiwa, 2015",Other sources of bias,D10,Low
+Gallas-Lopes,Original,"Chijiwa, 2015",Selection bias: sequence generation,D1,Unclear
+Gallas-Lopes,Original,"Chijiwa, 2015",Selection bias: baseline characteristics,D2,Unclear
+Gallas-Lopes,Original,"Chijiwa, 2015",Selection bias: allocation concealment,D3,Unclear
+Gallas-Lopes,Original,"Chijiwa, 2015",Performance bias: random housing,D4,Unclear
+Gallas-Lopes,Original,"Chijiwa, 2015",Performance bias: blinding,D5,Unclear
+Gallas-Lopes,Original,"Chijiwa, 2015",Detection bias: random outcome assessment,D6,Unclear
+Gallas-Lopes,Original,"Chijiwa, 2015",Detection bias: blinding,D7,Unclear
+Gallas-Lopes,Original,"Chijiwa, 2015",Attrition bias: incomplete outcome data,D8,Low
+Gallas-Lopes,Original,"Chijiwa, 2015",Reporting bias: selective outcome reporting,D9,Low
+Gallas-Lopes,Original,"Chijiwa, 2015",Other sources of bias,D10,Low
+Ramage,Original,"Cisternas et al., 2019",Selection bias: sequence generation,D1,Unclear
+Ramage,Replication,"Cisternas et al., 2019",Selection bias: sequence generation,D1,Unclear
+Ramage,Original,"Cisternas et al., 2019",Other sources of bias,D10,Low
+Ramage,Original,"Cisternas et al., 2019",Selection bias: baseline characteristics,D2,Low
+Ramage,Original,"Cisternas et al., 2019",Selection bias: allocation concealment,D3,Unclear
+Ramage,Original,"Cisternas et al., 2019",Performance bias: random housing,D4,High
+Ramage,Original,"Cisternas et al., 2019",Performance bias: blinding,D5,High
+Ramage,Original,"Cisternas et al., 2019",Detection bias: random outcome assessment,D6,High
+Ramage,Original,"Cisternas et al., 2019",Detection bias: blinding,D7,Low
+Ramage,Original,"Cisternas et al., 2019",Attrition bias: incomplete outcome data,D8,Low
+Ramage,Original,"Cisternas et al., 2019",Reporting bias: selective outcome reporting,D9,Low
+Ramage,Replication,"Cisternas et al., 2019",Other sources of bias,D10,Low
+Ramage,Replication,"Cisternas et al., 2019",Selection bias: baseline characteristics,D2,Unclear
+Ramage,Replication,"Cisternas et al., 2019",Selection bias: allocation concealment,D3,Unclear
+Ramage,Replication,"Cisternas et al., 2019",Performance bias: random housing,D4,Low
+Ramage,Replication,"Cisternas et al., 2019",Performance bias: blinding,D5,Unclear
+Ramage,Replication,"Cisternas et al., 2019",Detection bias: random outcome assessment,D6,Unclear
+Ramage,Replication,"Cisternas et al., 2019",Detection bias: blinding,D7,Low
+Ramage,Replication,"Cisternas et al., 2019",Attrition bias: incomplete outcome data,D8,Low
+Ramage,Replication,"Cisternas et al., 2019",Reporting bias: selective outcome reporting,D9,Unclear
+Gallas-Lopes,Replication,"Deak, 2005",Selection bias: sequence generation,D1,Unclear
+Gallas-Lopes,Replication,"Deak, 2005",Selection bias: baseline characteristics,D2,Unclear
+Gallas-Lopes,Replication,"Deak, 2005",Selection bias: allocation concealment,D3,Unclear
+Gallas-Lopes,Replication,"Deak, 2005",Performance bias: random housing,D4,Unclear
+Gallas-Lopes,Replication,"Deak, 2005",Performance bias: blinding,D5,Unclear
+Gallas-Lopes,Replication,"Deak, 2005",Detection bias: random outcome assessment,D6,Unclear
+Gallas-Lopes,Replication,"Deak, 2005",Detection bias: blinding,D7,Low
+Gallas-Lopes,Replication,"Deak, 2005",Attrition bias: incomplete outcome data,D8,Unclear
+Gallas-Lopes,Replication,"Deak, 2005",Reporting bias: selective outcome reporting,D9,Low
+Gallas-Lopes,Replication,"Deak, 2005",Other sources of bias,D10,Low
+Gallas-Lopes,Original,"Deak, 2005",Selection bias: sequence generation,D1,Unclear
+Gallas-Lopes,Original,"Deak, 2005",Selection bias: baseline characteristics,D2,Unclear
+Gallas-Lopes,Original,"Deak, 2005",Selection bias: allocation concealment,D3,Unclear
+Gallas-Lopes,Original,"Deak, 2005",Performance bias: random housing,D4,Unclear
+Gallas-Lopes,Original,"Deak, 2005",Performance bias: blinding,D5,Unclear
+Gallas-Lopes,Original,"Deak, 2005",Detection bias: random outcome assessment,D6,Unclear
+Gallas-Lopes,Original,"Deak, 2005",Detection bias: blinding,D7,Unclear
+Gallas-Lopes,Original,"Deak, 2005",Attrition bias: incomplete outcome data,D8,Low
+Gallas-Lopes,Original,"Deak, 2005",Reporting bias: selective outcome reporting,D9,Low
+Gallas-Lopes,Original,"Deak, 2005",Other sources of bias,D10,Low
+Vojvodic,Replication,Doeppner 2018,Selection bias: sequence generation,D1,Unclear
+Vojvodic,Replication,Doeppner 2018,Selection bias: baseline characteristics,D2,Unclear
+Vojvodic,Replication,Doeppner 2018,Selection bias: allocation concealment,D3,Unclear
+Vojvodic,Replication,Doeppner 2018,Performance bias: random housing,D4,Unclear
+Vojvodic,Replication,Doeppner 2018,Performance bias: blinding,D5,Unclear
+Vojvodic,Replication,Doeppner 2018,Detection bias: random outcome assessment,D6,Unclear
+Vojvodic,Replication,Doeppner 2018,Detection bias: blinding,D7,Low
+Vojvodic,Replication,Doeppner 2018,Attrition bias: incomplete outcome data,D8,Unclear
+Vojvodic,Replication,Doeppner 2018,Reporting bias: selective outcome reporting,D9,High
+Vojvodic,Replication,Doeppner 2018,Other sources of bias,D10,Low
+Vojvodic,Original,Doeppner 2018,Selection bias: sequence generation,D1,Unclear
+Vojvodic,Original,Doeppner 2018,Selection bias: baseline characteristics,D2,Unclear
+Vojvodic,Original,Doeppner 2018,Selection bias: allocation concealment,D3,Unclear
+Vojvodic,Original,Doeppner 2018,Performance bias: random housing,D4,Unclear
+Vojvodic,Original,Doeppner 2018,Performance bias: blinding,D5,Unclear
+Vojvodic,Original,Doeppner 2018,Detection bias: random outcome assessment,D6,Unclear
+Vojvodic,Original,Doeppner 2018,Detection bias: blinding,D7,Low
+Vojvodic,Original,Doeppner 2018,Attrition bias: incomplete outcome data,D8,Low
+Vojvodic,Original,Doeppner 2018,Reporting bias: selective outcome reporting,D9,Low
+Vojvodic,Original,Doeppner 2018,Other sources of bias,D10,Unclear
+Ramage,Replication,"Gao et al., 2022",Other sources of bias,D10,Low
+Ramage,Replication,"Gao et al., 2022",Selection bias: baseline characteristics,D2,Unclear
+Ramage,Replication,"Gao et al., 2022",Selection bias: allocation concealment,D3,Unclear
+Ramage,Replication,"Gao et al., 2022",Performance bias: random housing,D4,Unclear
+Ramage,Replication,"Gao et al., 2022",Performance bias: blinding,D5,Unclear
+Ramage,Replication,"Gao et al., 2022",Detection bias: random outcome assessment,D6,Unclear
+Ramage,Replication,"Gao et al., 2022",Detection bias: blinding,D7,Unclear
+Ramage,Replication,"Gao et al., 2022",Attrition bias: incomplete outcome data,D8,Unclear
+Ramage,Replication,"Gao et al., 2022",Reporting bias: selective outcome reporting,D9,Unclear
+Ramage,Original,"Gao et al., 2022",Selection bias: sequence generation,D1,Unclear
+Ramage,Replication,"Gao et al., 2022",Selection bias: sequence generation,D1,Unclear
+Ramage,Original,"Gao et al., 2022",Other sources of bias,D10,Low
+Ramage,Original,"Gao et al., 2022",Selection bias: baseline characteristics,D2,Low
+Ramage,Original,"Gao et al., 2022",Selection bias: allocation concealment,D3,Unclear
+Ramage,Original,"Gao et al., 2022",Performance bias: random housing,D4,High
+Ramage,Original,"Gao et al., 2022",Performance bias: blinding,D5,High
+Ramage,Original,"Gao et al., 2022",Detection bias: random outcome assessment,D6,Low
+Ramage,Original,"Gao et al., 2022",Detection bias: blinding,D7,High
+Ramage,Original,"Gao et al., 2022",Attrition bias: incomplete outcome data,D8,Unclear
+Ramage,Original,"Gao et al., 2022",Reporting bias: selective outcome reporting,D9,Low
+Ramage,Original,"Gelfo et al., 2017",Selection bias: sequence generation,D1,Unclear
+Ramage,Replication,"Gelfo et al., 2017",Selection bias: sequence generation,D1,Unclear
+Ramage,Original,"Gelfo et al., 2017",Other sources of bias,D10,Low
+Ramage,Original,"Gelfo et al., 2017",Selection bias: baseline characteristics,D2,Low
+Ramage,Original,"Gelfo et al., 2017",Selection bias: allocation concealment,D3,Unclear
+Ramage,Original,"Gelfo et al., 2017",Performance bias: random housing,D4,Unclear
+Ramage,Original,"Gelfo et al., 2017",Performance bias: blinding,D5,High
+Ramage,Original,"Gelfo et al., 2017",Detection bias: random outcome assessment,D6,High
+Ramage,Original,"Gelfo et al., 2017",Detection bias: blinding,D7,High
+Ramage,Original,"Gelfo et al., 2017",Attrition bias: incomplete outcome data,D8,High
+Ramage,Original,"Gelfo et al., 2017",Reporting bias: selective outcome reporting,D9,Low
+Ramage,Replication,"Gelfo et al., 2017",Other sources of bias,D10,Unclear
+Ramage,Replication,"Gelfo et al., 2017",Selection bias: baseline characteristics,D2,Unclear
+Ramage,Replication,"Gelfo et al., 2017",Selection bias: allocation concealment,D3,Unclear
+Ramage,Replication,"Gelfo et al., 2017",Performance bias: random housing,D4,Unclear
+Ramage,Replication,"Gelfo et al., 2017",Performance bias: blinding,D5,Unclear
+Ramage,Replication,"Gelfo et al., 2017",Detection bias: random outcome assessment,D6,Unclear
+Ramage,Replication,"Gelfo et al., 2017",Detection bias: blinding,D7,Unclear
+Ramage,Replication,"Gelfo et al., 2017",Attrition bias: incomplete outcome data,D8,Unclear
+Ramage,Replication,"Gelfo et al., 2017",Reporting bias: selective outcome reporting,D9,Unclear
+Ramage,Original,"Habib et al., 2017",Selection bias: sequence generation,D1,High
+Ramage,Original,"Habib et al., 2017",Other sources of bias,D10,Low
+Ramage,Original,"Habib et al., 2017",Selection bias: baseline characteristics,D2,Low
+Ramage,Original,"Habib et al., 2017",Selection bias: allocation concealment,D3,High
+Ramage,Original,"Habib et al., 2017",Performance bias: random housing,D4,High
+Ramage,Original,"Habib et al., 2017",Performance bias: blinding,D5,High
+Ramage,Original,"Habib et al., 2017",Detection bias: random outcome assessment,D6,High
+Ramage,Original,"Habib et al., 2017",Detection bias: blinding,D7,High
+Ramage,Original,"Habib et al., 2017",Attrition bias: incomplete outcome data,D8,Unclear
+Ramage,Original,"Habib et al., 2017",Reporting bias: selective outcome reporting,D9,Low
+Ramage,Replication,"Habib et al., 2019",Other sources of bias,D10,High
+Ramage,Replication,"Habib et al., 2019",Selection bias: baseline characteristics,D2,Unclear
+Ramage,Replication,"Habib et al., 2019",Selection bias: allocation concealment,D3,Unclear
+Ramage,Replication,"Habib et al., 2019",Performance bias: random housing,D4,Unclear
+Ramage,Replication,"Habib et al., 2019",Performance bias: blinding,D5,Unclear
+Ramage,Replication,"Habib et al., 2019",Detection bias: random outcome assessment,D6,Unclear
+Ramage,Replication,"Habib et al., 2019",Detection bias: blinding,D7,Low
+Ramage,Replication,"Habib et al., 2019",Attrition bias: incomplete outcome data,D8,Unclear
+Ramage,Replication,"Habib et al., 2019",Reporting bias: selective outcome reporting,D9,High
+Ramage,Original,"Habib et al., 2019",Selection bias: sequence generation,D1,Unclear
+Ramage,Replication,"Habib et al., 2019",Selection bias: sequence generation,D1,Unclear
+Ramage,Original,"Habib et al., 2019",Other sources of bias,D10,Low
+Ramage,Original,"Habib et al., 2019",Selection bias: baseline characteristics,D2,Low
+Ramage,Original,"Habib et al., 2019",Selection bias: allocation concealment,D3,Unclear
+Ramage,Original,"Habib et al., 2019",Performance bias: random housing,D4,High
+Ramage,Original,"Habib et al., 2019",Performance bias: blinding,D5,High
+Ramage,Original,"Habib et al., 2019",Detection bias: random outcome assessment,D6,High
+Ramage,Original,"Habib et al., 2019",Detection bias: blinding,D7,High
+Ramage,Original,"Habib et al., 2019",Attrition bias: incomplete outcome data,D8,High
+Ramage,Original,"Habib et al., 2019",Reporting bias: selective outcome reporting,D9,Low
+Vojvodic,Replication,Hahn 2011,Selection bias: sequence generation,D1,Unclear
+Vojvodic,Replication,Hahn 2011,Selection bias: baseline characteristics,D2,Unclear
+Vojvodic,Replication,Hahn 2011,Selection bias: allocation concealment,D3,Unclear
+Vojvodic,Replication,Hahn 2011,Performance bias: random housing,D4,Unclear
+Vojvodic,Replication,Hahn 2011,Performance bias: blinding,D5,Unclear
+Vojvodic,Replication,Hahn 2011,Detection bias: random outcome assessment,D6,Unclear
+Vojvodic,Replication,Hahn 2011,Detection bias: blinding,D7,Unclear
+Vojvodic,Replication,Hahn 2011,Attrition bias: incomplete outcome data,D8,Unclear
+Vojvodic,Replication,Hahn 2011,Reporting bias: selective outcome reporting,D9,High
+Vojvodic,Replication,Hahn 2011,Other sources of bias,D10,High
+Vojvodic,Original,Hahn 2011,Selection bias: sequence generation,D1,Unclear
+Vojvodic,Original,Hahn 2011,Selection bias: baseline characteristics,D2,Unclear
+Vojvodic,Original,Hahn 2011,Selection bias: allocation concealment,D3,Unclear
+Vojvodic,Original,Hahn 2011,Performance bias: random housing,D4,Unclear
+Vojvodic,Original,Hahn 2011,Performance bias: blinding,D5,High
+Vojvodic,Original,Hahn 2011,Detection bias: random outcome assessment,D6,Unclear
+Vojvodic,Original,Hahn 2011,Detection bias: blinding,D7,Unclear
+Vojvodic,Original,Hahn 2011,Attrition bias: incomplete outcome data,D8,Unclear
+Vojvodic,Original,Hahn 2011,Reporting bias: selective outcome reporting,D9,High
+Vojvodic,Original,Hahn 2011,Other sources of bias,D10,Unclear
+Ramage,Original,"HJ et al., 2018",Selection bias: sequence generation,D1,Unclear
+Ramage,Replication,"HJ et al., 2018",Selection bias: sequence generation,D1,Unclear
+Ramage,Original,"HJ et al., 2018",Other sources of bias,D10,Low
+Ramage,Original,"HJ et al., 2018",Selection bias: baseline characteristics,D2,Low
+Ramage,Original,"HJ et al., 2018",Selection bias: allocation concealment,D3,Unclear
+Ramage,Original,"HJ et al., 2018",Performance bias: random housing,D4,High
+Ramage,Original,"HJ et al., 2018",Performance bias: blinding,D5,High
+Ramage,Original,"HJ et al., 2018",Detection bias: random outcome assessment,D6,High
+Ramage,Original,"HJ et al., 2018",Detection bias: blinding,D7,High
+Ramage,Original,"HJ et al., 2018",Attrition bias: incomplete outcome data,D8,High
+Ramage,Original,"HJ et al., 2018",Reporting bias: selective outcome reporting,D9,Low
+Ramage,Replication,"HJ et al., 2018",Other sources of bias,D10,Unclear
+Ramage,Replication,"HJ et al., 2018",Selection bias: baseline characteristics,D2,Unclear
+Ramage,Replication,"HJ et al., 2018",Selection bias: allocation concealment,D3,Unclear
+Ramage,Replication,"HJ et al., 2018",Performance bias: random housing,D4,Unclear
+Ramage,Replication,"HJ et al., 2018",Performance bias: blinding,D5,Unclear
+Ramage,Replication,"HJ et al., 2018",Detection bias: random outcome assessment,D6,Unclear
+Ramage,Replication,"HJ et al., 2018",Detection bias: blinding,D7,Unclear
+Ramage,Replication,"HJ et al., 2018",Attrition bias: incomplete outcome data,D8,Unclear
+Ramage,Replication,"HJ et al., 2018",Reporting bias: selective outcome reporting,D9,High
+Vojvodic,Replication,Hoda 2013,Selection bias: sequence generation,D1,Unclear
+Vojvodic,Replication,Hoda 2013,Selection bias: baseline characteristics,D2,Unclear
+Vojvodic,Replication,Hoda 2013,Selection bias: allocation concealment,D3,Unclear
+Vojvodic,Replication,Hoda 2013,Performance bias: random housing,D4,Unclear
+Vojvodic,Replication,Hoda 2013,Performance bias: blinding,D5,Unclear
+Vojvodic,Replication,Hoda 2013,Detection bias: random outcome assessment,D6,Unclear
+Vojvodic,Replication,Hoda 2013,Detection bias: blinding,D7,Unclear
+Vojvodic,Replication,Hoda 2013,Attrition bias: incomplete outcome data,D8,Low
+Vojvodic,Replication,Hoda 2013,Other sources of bias,D10,Low
+Vojvodic,Original,Hoda 2013,Selection bias: sequence generation,D1,High
+Vojvodic,Original,Hoda 2013,Selection bias: baseline characteristics,D2,Unclear
+Vojvodic,Original,Hoda 2013,Selection bias: allocation concealment,D3,Low
+Vojvodic,Original,Hoda 2013,Performance bias: random housing,D4,Unclear
+Vojvodic,Original,Hoda 2013,Performance bias: blinding,D5,Low
+Vojvodic,Original,Hoda 2013,Detection bias: random outcome assessment,D6,Unclear
+Vojvodic,Original,Hoda 2013,Detection bias: blinding,D7,Unclear
+Vojvodic,Original,Hoda 2013,Attrition bias: incomplete outcome data,D8,Low
+Vojvodic,Original,Hoda 2013,Reporting bias: selective outcome reporting,D9,Low
+Vojvodic,Original,Hoda 2013,Other sources of bias,D10,Unclear
+Vojvodic,Replication,Hoda 2013,Reporting bias: selective outcome reporting,D9,Unclear
+Vojvodic,Replication,Kitagawa 2018,Selection bias: sequence generation,D1,Unclear
+Vojvodic,Replication,Kitagawa 2018,Selection bias: baseline characteristics,D2,Unclear
+Vojvodic,Replication,Kitagawa 2018,Selection bias: allocation concealment,D3,Unclear
+Vojvodic,Replication,Kitagawa 2018,Performance bias: random housing,D4,Unclear
+Vojvodic,Replication,Kitagawa 2018,Performance bias: blinding,D5,Unclear
+Vojvodic,Replication,Kitagawa 2018,Detection bias: random outcome assessment,D6,Unclear
+Vojvodic,Replication,Kitagawa 2018,Detection bias: blinding,D7,Unclear
+Vojvodic,Replication,Kitagawa 2018,Attrition bias: incomplete outcome data,D8,Unclear
+Vojvodic,Replication,Kitagawa 2018,Reporting bias: selective outcome reporting,D9,High
+Vojvodic,Replication,Kitagawa 2018,Other sources of bias,D10,Unclear
+Vojvodic,Original,Kitagawa 2018,Selection bias: sequence generation,D1,Unclear
+Vojvodic,Original,Kitagawa 2018,Selection bias: baseline characteristics,D2,Unclear
+Vojvodic,Original,Kitagawa 2018,Selection bias: allocation concealment,D3,Unclear
+Vojvodic,Original,Kitagawa 2018,Performance bias: random housing,D4,Unclear
+Vojvodic,Original,Kitagawa 2018,Performance bias: blinding,D5,Unclear
+Vojvodic,Original,Kitagawa 2018,Detection bias: random outcome assessment,D6,Unclear
+Vojvodic,Original,Kitagawa 2018,Detection bias: blinding,D7,Unclear
+Vojvodic,Original,Kitagawa 2018,Attrition bias: incomplete outcome data,D8,Unclear
+Vojvodic,Original,Kitagawa 2018,Reporting bias: selective outcome reporting,D9,High
+Vojvodic,Original,Kitagawa 2018,Other sources of bias,D10,Unclear
+Vojvodic,Replication,Kong 2013,Selection bias: sequence generation,D1,Unclear
+Vojvodic,Replication,Kong 2013,Selection bias: baseline characteristics,D2,Unclear
+Vojvodic,Replication,Kong 2013,Selection bias: allocation concealment,D3,Unclear
+Vojvodic,Replication,Kong 2013,Performance bias: random housing,D4,Unclear
+Vojvodic,Replication,Kong 2013,Performance bias: blinding,D5,Unclear
+Vojvodic,Replication,Kong 2013,Detection bias: random outcome assessment,D6,Unclear
+Vojvodic,Replication,Kong 2013,Detection bias: blinding,D7,Unclear
+Vojvodic,Replication,Kong 2013,Attrition bias: incomplete outcome data,D8,High
+Vojvodic,Replication,Kong 2013,Reporting bias: selective outcome reporting,D9,High
+Vojvodic,Replication,Kong 2013,Other sources of bias,D10,Unclear
+Vojvodic,Original,Kong 2013,Selection bias: sequence generation,D1,Unclear
+Vojvodic,Original,Kong 2013,Selection bias: baseline characteristics,D2,Unclear
+Vojvodic,Original,Kong 2013,Selection bias: allocation concealment,D3,Unclear
+Vojvodic,Original,Kong 2013,Performance bias: random housing,D4,Unclear
+Vojvodic,Original,Kong 2013,Performance bias: blinding,D5,High
+Vojvodic,Original,Kong 2013,Detection bias: random outcome assessment,D6,Unclear
+Vojvodic,Original,Kong 2013,Detection bias: blinding,D7,Unclear
+Vojvodic,Original,Kong 2013,Attrition bias: incomplete outcome data,D8,High
+Vojvodic,Original,Kong 2013,Reporting bias: selective outcome reporting,D9,Low
+Vojvodic,Original,Kong 2013,Other sources of bias,D10,High
+Vojvodic,Replication,Liang 2018,Selection bias: sequence generation,D1,Unclear
+Vojvodic,Replication,Liang 2018,Selection bias: baseline characteristics,D2,Unclear
+Vojvodic,Replication,Liang 2018,Selection bias: allocation concealment,D3,Unclear
+Vojvodic,Replication,Liang 2018,Performance bias: random housing,D4,Unclear
+Vojvodic,Replication,Liang 2018,Performance bias: blinding,D5,Unclear
+Vojvodic,Replication,Liang 2018,Detection bias: random outcome assessment,D6,Unclear
+Vojvodic,Replication,Liang 2018,Detection bias: blinding,D7,Unclear
+Vojvodic,Replication,Liang 2018,Attrition bias: incomplete outcome data,D8,High
+Vojvodic,Replication,Liang 2018,Reporting bias: selective outcome reporting,D9,High
+Vojvodic,Replication,Liang 2018,Other sources of bias,D10,High
+Vojvodic,Original,Liang 2018,Selection bias: sequence generation,D1,Unclear
+Vojvodic,Original,Liang 2018,Selection bias: baseline characteristics,D2,Unclear
+Vojvodic,Original,Liang 2018,Selection bias: allocation concealment,D3,Unclear
+Vojvodic,Original,Liang 2018,Performance bias: random housing,D4,Unclear
+Vojvodic,Original,Liang 2018,Performance bias: blinding,D5,Unclear
+Vojvodic,Original,Liang 2018,Detection bias: random outcome assessment,D6,Unclear
+Vojvodic,Original,Liang 2018,Detection bias: blinding,D7,Unclear
+Vojvodic,Original,Liang 2018,Attrition bias: incomplete outcome data,D8,High
+Vojvodic,Original,Liang 2018,Reporting bias: selective outcome reporting,D9,High
+Vojvodic,Original,Liang 2018,Other sources of bias,D10,Unclear
+Vojvodic,Replication,Liu 2014,Selection bias: sequence generation,D1,Unclear
+Vojvodic,Replication,Liu 2014,Selection bias: baseline characteristics,D2,Unclear
+Vojvodic,Replication,Liu 2014,Selection bias: allocation concealment,D3,Unclear
+Vojvodic,Replication,Liu 2014,Performance bias: random housing,D4,Unclear
+Vojvodic,Replication,Liu 2014,Performance bias: blinding,D5,Unclear
+Vojvodic,Replication,Liu 2014,Detection bias: random outcome assessment,D6,Unclear
+Vojvodic,Replication,Liu 2014,Detection bias: blinding,D7,Unclear
+Vojvodic,Replication,Liu 2014,Attrition bias: incomplete outcome data,D8,High
+Vojvodic,Replication,Liu 2014,Reporting bias: selective outcome reporting,D9,High
+Vojvodic,Replication,Liu 2014,Other sources of bias,D10,Unclear
+Vojvodic,Original,Liu 2014,Selection bias: sequence generation,D1,Unclear
+Vojvodic,Original,Liu 2014,Selection bias: baseline characteristics,D2,Unclear
+Vojvodic,Original,Liu 2014,Selection bias: allocation concealment,D3,Unclear
+Vojvodic,Original,Liu 2014,Performance bias: random housing,D4,Unclear
+Vojvodic,Original,Liu 2014,Performance bias: blinding,D5,High
+Vojvodic,Original,Liu 2014,Detection bias: random outcome assessment,D6,Unclear
+Vojvodic,Original,Liu 2014,Detection bias: blinding,D7,Unclear
+Vojvodic,Original,Liu 2014,Attrition bias: incomplete outcome data,D8,Unclear
+Vojvodic,Original,Liu 2014,Reporting bias: selective outcome reporting,D9,High
+Vojvodic,Original,Liu 2014,Other sources of bias,D10,Unclear
+Vojvodic,Replication,Liu 2018,Selection bias: sequence generation,D1,Unclear
+Vojvodic,Replication,Liu 2018,Selection bias: baseline characteristics,D2,Unclear
+Vojvodic,Replication,Liu 2018,Selection bias: allocation concealment,D3,Unclear
+Vojvodic,Replication,Liu 2018,Performance bias: random housing,D4,Unclear
+Vojvodic,Replication,Liu 2018,Performance bias: blinding,D5,Unclear
+Vojvodic,Replication,Liu 2018,Detection bias: random outcome assessment,D6,Unclear
+Vojvodic,Replication,Liu 2018,Detection bias: blinding,D7,Unclear
+Vojvodic,Replication,Liu 2018,Attrition bias: incomplete outcome data,D8,Unclear
+Vojvodic,Replication,Liu 2018,Reporting bias: selective outcome reporting,D9,High
+Vojvodic,Replication,Liu 2018,Other sources of bias,D10,Unclear
+Vojvodic,Original,Liu 2018,Selection bias: sequence generation,D1,Unclear
+Vojvodic,Original,Liu 2018,Selection bias: baseline characteristics,D2,Unclear
+Vojvodic,Original,Liu 2018,Selection bias: allocation concealment,D3,Unclear
+Vojvodic,Original,Liu 2018,Performance bias: random housing,D4,Unclear
+Vojvodic,Original,Liu 2018,Performance bias: blinding,D5,High
+Vojvodic,Original,Liu 2018,Detection bias: random outcome assessment,D6,Unclear
+Vojvodic,Original,Liu 2018,Detection bias: blinding,D7,Unclear
+Vojvodic,Original,Liu 2018,Attrition bias: incomplete outcome data,D8,Unclear
+Vojvodic,Original,Liu 2018,Reporting bias: selective outcome reporting,D9,High
+Vojvodic,Original,Liu 2018,Other sources of bias,D10,Unclear
+Vojvodic,Replication,Liu 2019,Selection bias: sequence generation,D1,Unclear
+Vojvodic,Replication,Liu 2019,Selection bias: baseline characteristics,D2,Unclear
+Vojvodic,Replication,Liu 2019,Selection bias: allocation concealment,D3,Unclear
+Vojvodic,Replication,Liu 2019,Performance bias: random housing,D4,Unclear
+Vojvodic,Replication,Liu 2019,Performance bias: blinding,D5,Unclear
+Vojvodic,Replication,Liu 2019,Detection bias: random outcome assessment,D6,Unclear
+Vojvodic,Replication,Liu 2019,Detection bias: blinding,D7,Unclear
+Vojvodic,Replication,Liu 2019,Attrition bias: incomplete outcome data,D8,Unclear
+Vojvodic,Replication,Liu 2019,Reporting bias: selective outcome reporting,D9,High
+Vojvodic,Replication,Liu 2019,Other sources of bias,D10,High
+Vojvodic,Original,Liu 2019,Selection bias: sequence generation,D1,Unclear
+Vojvodic,Original,Liu 2019,Selection bias: baseline characteristics,D2,Unclear
+Vojvodic,Original,Liu 2019,Selection bias: allocation concealment,D3,Unclear
+Vojvodic,Original,Liu 2019,Performance bias: random housing,D4,Unclear
+Vojvodic,Original,Liu 2019,Performance bias: blinding,D5,High
+Vojvodic,Original,Liu 2019,Detection bias: random outcome assessment,D6,Unclear
+Vojvodic,Original,Liu 2019,Detection bias: blinding,D7,Unclear
+Vojvodic,Original,Liu 2019,Attrition bias: incomplete outcome data,D8,High
+Vojvodic,Original,Liu 2019,Reporting bias: selective outcome reporting,D9,High
+Vojvodic,Original,Liu 2019,Other sources of bias,D10,High
+Ramage,Original,"Liu et al., 2020",Selection bias: sequence generation,D1,Unclear
+Ramage,Replication,"Liu et al., 2020",Selection bias: sequence generation,D1,Unclear
+Ramage,Original,"Liu et al., 2020",Other sources of bias,D10,Low
+Ramage,Original,"Liu et al., 2020",Selection bias: baseline characteristics,D2,Low
+Ramage,Original,"Liu et al., 2020",Selection bias: allocation concealment,D3,Unclear
+Ramage,Original,"Liu et al., 2020",Performance bias: random housing,D4,High
+Ramage,Original,"Liu et al., 2020",Performance bias: blinding,D5,High
+Ramage,Original,"Liu et al., 2020",Detection bias: random outcome assessment,D6,High
+Ramage,Original,"Liu et al., 2020",Detection bias: blinding,D7,High
+Ramage,Original,"Liu et al., 2020",Attrition bias: incomplete outcome data,D8,Unclear
+Ramage,Original,"Liu et al., 2020",Reporting bias: selective outcome reporting,D9,Low
+Ramage,Replication,"Liu et al., 2020",Other sources of bias,D10,Low
+Ramage,Replication,"Liu et al., 2020",Selection bias: baseline characteristics,D2,Unclear
+Ramage,Replication,"Liu et al., 2020",Selection bias: allocation concealment,D3,Unclear
+Ramage,Replication,"Liu et al., 2020",Performance bias: random housing,D4,Unclear
+Ramage,Replication,"Liu et al., 2020",Performance bias: blinding,D5,Unclear
+Ramage,Replication,"Liu et al., 2020",Detection bias: random outcome assessment,D6,Unclear
+Ramage,Replication,"Liu et al., 2020",Detection bias: blinding,D7,Unclear
+Ramage,Replication,"Liu et al., 2020",Attrition bias: incomplete outcome data,D8,Unclear
+Ramage,Replication,"Liu et al., 2020",Reporting bias: selective outcome reporting,D9,Unclear
+Ramage,Original,"Lu et al., 2022",Selection bias: sequence generation,D1,Unclear
+Ramage,Replication,"Lu et al., 2022",Selection bias: sequence generation,D1,Unclear
+Ramage,Original,"Lu et al., 2022",Other sources of bias,D10,Low
+Ramage,Original,"Lu et al., 2022",Selection bias: baseline characteristics,D2,Low
+Ramage,Original,"Lu et al., 2022",Selection bias: allocation concealment,D3,Unclear
+Ramage,Original,"Lu et al., 2022",Performance bias: random housing,D4,High
+Ramage,Original,"Lu et al., 2022",Performance bias: blinding,D5,High
+Ramage,Original,"Lu et al., 2022",Detection bias: random outcome assessment,D6,Low
+Ramage,Original,"Lu et al., 2022",Detection bias: blinding,D7,High
+Ramage,Original,"Lu et al., 2022",Attrition bias: incomplete outcome data,D8,Unclear
+Ramage,Original,"Lu et al., 2022",Reporting bias: selective outcome reporting,D9,Low
+Ramage,Replication,"Lu et al., 2022",Other sources of bias,D10,High
+Ramage,Replication,"Lu et al., 2022",Selection bias: baseline characteristics,D2,Low
+Ramage,Replication,"Lu et al., 2022",Selection bias: allocation concealment,D3,Unclear
+Ramage,Replication,"Lu et al., 2022",Performance bias: random housing,D4,Unclear
+Ramage,Replication,"Lu et al., 2022",Performance bias: blinding,D5,Unclear
+Ramage,Replication,"Lu et al., 2022",Detection bias: random outcome assessment,D6,Unclear
+Ramage,Replication,"Lu et al., 2022",Detection bias: blinding,D7,Unclear
+Ramage,Replication,"Lu et al., 2022",Attrition bias: incomplete outcome data,D8,Low
+Ramage,Replication,"Lu et al., 2022",Reporting bias: selective outcome reporting,D9,High
+Vojvodic,Replication,Ma 2013,Selection bias: sequence generation,D1,Unclear
+Vojvodic,Replication,Ma 2013,Selection bias: baseline characteristics,D2,Unclear
+Vojvodic,Replication,Ma 2013,Selection bias: allocation concealment,D3,Unclear
+Vojvodic,Replication,Ma 2013,Performance bias: random housing,D4,Unclear
+Vojvodic,Replication,Ma 2013,Performance bias: blinding,D5,Unclear
+Vojvodic,Replication,Ma 2013,Detection bias: random outcome assessment,D6,Unclear
+Vojvodic,Replication,Ma 2013,Detection bias: blinding,D7,Unclear
+Vojvodic,Replication,Ma 2013,Attrition bias: incomplete outcome data,D8,Unclear
+Vojvodic,Replication,Ma 2013,Reporting bias: selective outcome reporting,D9,High
+Vojvodic,Replication,Ma 2013,Other sources of bias,D10,Unclear
+Vojvodic,Original,Ma 2013,Selection bias: sequence generation,D1,Unclear
+Vojvodic,Original,Ma 2013,Selection bias: baseline characteristics,D2,Unclear
+Vojvodic,Original,Ma 2013,Selection bias: allocation concealment,D3,High
+Vojvodic,Original,Ma 2013,Performance bias: random housing,D4,Unclear
+Vojvodic,Original,Ma 2013,Performance bias: blinding,D5,High
+Vojvodic,Original,Ma 2013,Detection bias: random outcome assessment,D6,Unclear
+Vojvodic,Original,Ma 2013,Detection bias: blinding,D7,Unclear
+Vojvodic,Original,Ma 2013,Attrition bias: incomplete outcome data,D8,Unclear
+Vojvodic,Original,Ma 2013,Reporting bias: selective outcome reporting,D9,High
+Vojvodic,Original,Ma 2013,Other sources of bias,D10,Low
+Gallas-Lopes,Replication,"Mahmoud, 2017",Selection bias: sequence generation,D1,Unclear
+Gallas-Lopes,Replication,"Mahmoud, 2017",Selection bias: baseline characteristics,D2,Low
+Gallas-Lopes,Replication,"Mahmoud, 2017",Selection bias: allocation concealment,D3,Unclear
+Gallas-Lopes,Replication,"Mahmoud, 2017",Performance bias: random housing,D4,Unclear
+Gallas-Lopes,Replication,"Mahmoud, 2017",Performance bias: blinding,D5,Unclear
+Gallas-Lopes,Replication,"Mahmoud, 2017",Detection bias: random outcome assessment,D6,Unclear
+Gallas-Lopes,Replication,"Mahmoud, 2017",Detection bias: blinding,D7,Unclear
+Gallas-Lopes,Replication,"Mahmoud, 2017",Attrition bias: incomplete outcome data,D8,Unclear
+Gallas-Lopes,Replication,"Mahmoud, 2017",Reporting bias: selective outcome reporting,D9,Low
+Gallas-Lopes,Replication,"Mahmoud, 2017",Other sources of bias,D10,Unclear
+Gallas-Lopes,Original,"Mahmoud, 2017",Selection bias: sequence generation,D1,Unclear
+Gallas-Lopes,Original,"Mahmoud, 2017",Selection bias: baseline characteristics,D2,Unclear
+Gallas-Lopes,Original,"Mahmoud, 2017",Selection bias: allocation concealment,D3,Unclear
+Gallas-Lopes,Original,"Mahmoud, 2017",Performance bias: random housing,D4,Unclear
+Gallas-Lopes,Original,"Mahmoud, 2017",Performance bias: blinding,D5,Unclear
+Gallas-Lopes,Original,"Mahmoud, 2017",Detection bias: random outcome assessment,D6,Unclear
+Gallas-Lopes,Original,"Mahmoud, 2017",Detection bias: blinding,D7,Unclear
+Gallas-Lopes,Original,"Mahmoud, 2017",Attrition bias: incomplete outcome data,D8,Unclear
+Gallas-Lopes,Original,"Mahmoud, 2017",Reporting bias: selective outcome reporting,D9,Low
+Gallas-Lopes,Original,"Mahmoud, 2017",Other sources of bias,D10,Low
+Gallas-Lopes,Replication,"Majidi, 2016",Selection bias: sequence generation,D1,Unclear
+Gallas-Lopes,Replication,"Majidi, 2016",Selection bias: baseline characteristics,D2,Low
+Gallas-Lopes,Replication,"Majidi, 2016",Selection bias: allocation concealment,D3,Unclear
+Gallas-Lopes,Replication,"Majidi, 2016",Performance bias: random housing,D4,Unclear
+Gallas-Lopes,Replication,"Majidi, 2016",Performance bias: blinding,D5,Unclear
+Gallas-Lopes,Replication,"Majidi, 2016",Detection bias: random outcome assessment,D6,Unclear
+Gallas-Lopes,Replication,"Majidi, 2016",Detection bias: blinding,D7,Low
+Gallas-Lopes,Replication,"Majidi, 2016",Attrition bias: incomplete outcome data,D8,Low
+Gallas-Lopes,Replication,"Majidi, 2016",Reporting bias: selective outcome reporting,D9,Low
+Gallas-Lopes,Replication,"Majidi, 2016",Other sources of bias,D10,Unclear
+Gallas-Lopes,Original,"Majidi, 2016",Selection bias: sequence generation,D1,Unclear
+Gallas-Lopes,Original,"Majidi, 2016",Selection bias: baseline characteristics,D2,Unclear
+Gallas-Lopes,Original,"Majidi, 2016",Selection bias: allocation concealment,D3,Unclear
+Gallas-Lopes,Original,"Majidi, 2016",Performance bias: random housing,D4,Unclear
+Gallas-Lopes,Original,"Majidi, 2016",Performance bias: blinding,D5,Unclear
+Gallas-Lopes,Original,"Majidi, 2016",Detection bias: random outcome assessment,D6,Unclear
+Gallas-Lopes,Original,"Majidi, 2016",Detection bias: blinding,D7,Unclear
+Gallas-Lopes,Original,"Majidi, 2016",Attrition bias: incomplete outcome data,D8,Unclear
+Gallas-Lopes,Original,"Majidi, 2016",Reporting bias: selective outcome reporting,D9,Low
+Gallas-Lopes,Original,"Majidi, 2016",Other sources of bias,D10,High
+Gallas-Lopes,Replication,"McKim, 2016",Selection bias: sequence generation,D1,Unclear
+Gallas-Lopes,Replication,"McKim, 2016",Selection bias: baseline characteristics,D2,Unclear
+Gallas-Lopes,Replication,"McKim, 2016",Selection bias: allocation concealment,D3,Unclear
+Gallas-Lopes,Replication,"McKim, 2016",Performance bias: random housing,D4,Unclear
+Gallas-Lopes,Replication,"McKim, 2016",Performance bias: blinding,D5,Unclear
+Gallas-Lopes,Replication,"McKim, 2016",Detection bias: random outcome assessment,D6,Unclear
+Gallas-Lopes,Replication,"McKim, 2016",Detection bias: blinding,D7,Unclear
+Gallas-Lopes,Replication,"McKim, 2016",Attrition bias: incomplete outcome data,D8,Unclear
+Gallas-Lopes,Replication,"McKim, 2016",Reporting bias: selective outcome reporting,D9,Unclear
+Gallas-Lopes,Replication,"McKim, 2016",Other sources of bias,D10,Unclear
+Gallas-Lopes,Original,"McKim, 2016",Selection bias: sequence generation,D1,Unclear
+Gallas-Lopes,Original,"McKim, 2016",Selection bias: baseline characteristics,D2,Unclear
+Gallas-Lopes,Original,"McKim, 2016",Selection bias: allocation concealment,D3,Unclear
+Gallas-Lopes,Original,"McKim, 2016",Performance bias: random housing,D4,Unclear
+Gallas-Lopes,Original,"McKim, 2016",Performance bias: blinding,D5,Unclear
+Gallas-Lopes,Original,"McKim, 2016",Detection bias: random outcome assessment,D6,Unclear
+Gallas-Lopes,Original,"McKim, 2016",Detection bias: blinding,D7,Unclear
+Gallas-Lopes,Original,"McKim, 2016",Attrition bias: incomplete outcome data,D8,Low
+Gallas-Lopes,Original,"McKim, 2016",Reporting bias: selective outcome reporting,D9,Low
+Gallas-Lopes,Original,"McKim, 2016",Other sources of bias,D10,High
+Ramage,Replication,"Mietelska-Porowska et al., 2019",Other sources of bias,D10,Low
+Ramage,Replication,"Mietelska-Porowska et al., 2019",Selection bias: baseline characteristics,D2,Unclear
+Ramage,Replication,"Mietelska-Porowska et al., 2019",Selection bias: allocation concealment,D3,Unclear
+Ramage,Replication,"Mietelska-Porowska et al., 2019",Performance bias: random housing,D4,Unclear
+Ramage,Replication,"Mietelska-Porowska et al., 2019",Performance bias: blinding,D5,High
+Ramage,Replication,"Mietelska-Porowska et al., 2019",Detection bias: random outcome assessment,D6,Unclear
+Ramage,Replication,"Mietelska-Porowska et al., 2019",Detection bias: blinding,D7,High
+Ramage,Replication,"Mietelska-Porowska et al., 2019",Attrition bias: incomplete outcome data,D8,Unclear
+Ramage,Replication,"Mietelska-Porowska et al., 2019",Reporting bias: selective outcome reporting,D9,High
+Ramage,Original,"Mietelska-Porowska et al., 2019",Selection bias: sequence generation,D1,Unclear
+Ramage,Replication,"Mietelska-Porowska et al., 2019",Selection bias: sequence generation,D1,Unclear
+Ramage,Original,"Mietelska-Porowska et al., 2019",Other sources of bias,D10,Low
+Ramage,Original,"Mietelska-Porowska et al., 2019",Selection bias: baseline characteristics,D2,Low
+Ramage,Original,"Mietelska-Porowska et al., 2019",Selection bias: allocation concealment,D3,Unclear
+Ramage,Original,"Mietelska-Porowska et al., 2019",Performance bias: random housing,D4,High
+Ramage,Original,"Mietelska-Porowska et al., 2019",Performance bias: blinding,D5,High
+Ramage,Original,"Mietelska-Porowska et al., 2019",Detection bias: random outcome assessment,D6,High
+Ramage,Original,"Mietelska-Porowska et al., 2019",Detection bias: blinding,D7,High
+Ramage,Original,"Mietelska-Porowska et al., 2019",Attrition bias: incomplete outcome data,D8,Unclear
+Ramage,Original,"Mietelska-Porowska et al., 2019",Reporting bias: selective outcome reporting,D9,Low
+Gallas-Lopes,Replication,"Molina-Hernandez, 2008a",Selection bias: sequence generation,D1,Unclear
+Gallas-Lopes,Replication,"Molina-Hernandez, 2008a",Selection bias: baseline characteristics,D2,Unclear
+Gallas-Lopes,Replication,"Molina-Hernandez, 2008a",Selection bias: allocation concealment,D3,Unclear
+Gallas-Lopes,Replication,"Molina-Hernandez, 2008a",Performance bias: random housing,D4,Unclear
+Gallas-Lopes,Replication,"Molina-Hernandez, 2008a",Performance bias: blinding,D5,Unclear
+Gallas-Lopes,Replication,"Molina-Hernandez, 2008a",Detection bias: random outcome assessment,D6,Unclear
+Gallas-Lopes,Replication,"Molina-Hernandez, 2008a",Detection bias: blinding,D7,Low
+Gallas-Lopes,Replication,"Molina-Hernandez, 2008a",Attrition bias: incomplete outcome data,D8,High
+Gallas-Lopes,Replication,"Molina-Hernandez, 2008a",Reporting bias: selective outcome reporting,D9,Low
+Gallas-Lopes,Replication,"Molina-Hernandez, 2008a",Other sources of bias,D10,Low
+Gallas-Lopes,Replication,"Molina-Hernandez, 2008b",Selection bias: sequence generation,D1,Unclear
+Gallas-Lopes,Replication,"Molina-Hernandez, 2008b",Selection bias: baseline characteristics,D2,Unclear
+Gallas-Lopes,Replication,"Molina-Hernandez, 2008b",Selection bias: allocation concealment,D3,Unclear
+Gallas-Lopes,Replication,"Molina-Hernandez, 2008b",Performance bias: random housing,D4,Unclear
+Gallas-Lopes,Replication,"Molina-Hernandez, 2008b",Performance bias: blinding,D5,Unclear
+Gallas-Lopes,Replication,"Molina-Hernandez, 2008b",Detection bias: random outcome assessment,D6,Unclear
+Gallas-Lopes,Replication,"Molina-Hernandez, 2008b",Detection bias: blinding,D7,Low
+Gallas-Lopes,Replication,"Molina-Hernandez, 2008b",Attrition bias: incomplete outcome data,D8,Unclear
+Gallas-Lopes,Replication,"Molina-Hernandez, 2008b",Reporting bias: selective outcome reporting,D9,Low
+Gallas-Lopes,Replication,"Molina-Hernandez, 2008b",Other sources of bias,D10,Low
+Gallas-Lopes,Original,"Molina-Hernandez, 2008a",Selection bias: sequence generation,D1,Unclear
+Gallas-Lopes,Original,"Molina-Hernandez, 2008a",Selection bias: baseline characteristics,D2,Unclear
+Gallas-Lopes,Original,"Molina-Hernandez, 2008a",Selection bias: allocation concealment,D3,Unclear
+Gallas-Lopes,Original,"Molina-Hernandez, 2008a",Performance bias: random housing,D4,Unclear
+Gallas-Lopes,Original,"Molina-Hernandez, 2008a",Performance bias: blinding,D5,Unclear
+Gallas-Lopes,Original,"Molina-Hernandez, 2008a",Detection bias: random outcome assessment,D6,Unclear
+Gallas-Lopes,Original,"Molina-Hernandez, 2008a",Detection bias: blinding,D7,Unclear
+Gallas-Lopes,Original,"Molina-Hernandez, 2008a",Attrition bias: incomplete outcome data,D8,Low
+Gallas-Lopes,Original,"Molina-Hernandez, 2008a",Reporting bias: selective outcome reporting,D9,Low
+Gallas-Lopes,Original,"Molina-Hernandez, 2008a",Other sources of bias,D10,Low
+Gallas-Lopes,Original,"Molina-Hernandez, 2008b",Selection bias: sequence generation,D1,Unclear
+Gallas-Lopes,Original,"Molina-Hernandez, 2008b",Selection bias: baseline characteristics,D2,Unclear
+Gallas-Lopes,Original,"Molina-Hernandez, 2008b",Selection bias: allocation concealment,D3,Unclear
+Gallas-Lopes,Original,"Molina-Hernandez, 2008b",Performance bias: random housing,D4,Unclear
+Gallas-Lopes,Original,"Molina-Hernandez, 2008b",Performance bias: blinding,D5,Unclear
+Gallas-Lopes,Original,"Molina-Hernandez, 2008b",Detection bias: random outcome assessment,D6,Unclear
+Gallas-Lopes,Original,"Molina-Hernandez, 2008b",Detection bias: blinding,D7,Unclear
+Gallas-Lopes,Original,"Molina-Hernandez, 2008b",Attrition bias: incomplete outcome data,D8,Low
+Gallas-Lopes,Original,"Molina-Hernandez, 2008b",Reporting bias: selective outcome reporting,D9,Low
+Gallas-Lopes,Original,"Molina-Hernandez, 2008b",Other sources of bias,D10,Low
+Gallas-Lopes,Replication,"Nagpal, 2013",Selection bias: sequence generation,D1,Unclear
+Gallas-Lopes,Replication,"Nagpal, 2013",Selection bias: baseline characteristics,D2,Low
+Gallas-Lopes,Replication,"Nagpal, 2013",Selection bias: allocation concealment,D3,Unclear
+Gallas-Lopes,Replication,"Nagpal, 2013",Performance bias: random housing,D4,Unclear
+Gallas-Lopes,Replication,"Nagpal, 2013",Performance bias: blinding,D5,High
+Gallas-Lopes,Replication,"Nagpal, 2013",Detection bias: random outcome assessment,D6,Unclear
+Gallas-Lopes,Replication,"Nagpal, 2013",Detection bias: blinding,D7,Unclear
+Gallas-Lopes,Replication,"Nagpal, 2013",Attrition bias: incomplete outcome data,D8,High
+Gallas-Lopes,Replication,"Nagpal, 2013",Reporting bias: selective outcome reporting,D9,Low
+Gallas-Lopes,Replication,"Nagpal, 2013",Other sources of bias,D10,High
+Gallas-Lopes,Original,"Nagpal, 2013",Selection bias: sequence generation,D1,Unclear
+Gallas-Lopes,Original,"Nagpal, 2013",Selection bias: baseline characteristics,D2,Unclear
+Gallas-Lopes,Original,"Nagpal, 2013",Selection bias: allocation concealment,D3,Unclear
+Gallas-Lopes,Original,"Nagpal, 2013",Performance bias: random housing,D4,Unclear
+Gallas-Lopes,Original,"Nagpal, 2013",Performance bias: blinding,D5,Unclear
+Gallas-Lopes,Original,"Nagpal, 2013",Detection bias: random outcome assessment,D6,Unclear
+Gallas-Lopes,Original,"Nagpal, 2013",Detection bias: blinding,D7,Unclear
+Gallas-Lopes,Original,"Nagpal, 2013",Attrition bias: incomplete outcome data,D8,Low
+Gallas-Lopes,Original,"Nagpal, 2013",Reporting bias: selective outcome reporting,D9,Low
+Gallas-Lopes,Original,"Nagpal, 2013",Other sources of bias,D10,Low
+Ramage,Original,"Nunes et al., 2015",Selection bias: sequence generation,D1,High
+Ramage,Replication,"Nunes et al., 2015",Selection bias: sequence generation,D1,Unclear
+Ramage,Original,"Nunes et al., 2015",Other sources of bias,D10,Low
+Ramage,Original,"Nunes et al., 2015",Selection bias: baseline characteristics,D2,Low
+Ramage,Original,"Nunes et al., 2015",Selection bias: allocation concealment,D3,High
+Ramage,Original,"Nunes et al., 2015",Performance bias: random housing,D4,High
+Ramage,Original,"Nunes et al., 2015",Performance bias: blinding,D5,High
+Ramage,Original,"Nunes et al., 2015",Detection bias: random outcome assessment,D6,High
+Ramage,Original,"Nunes et al., 2015",Detection bias: blinding,D7,Low
+Ramage,Original,"Nunes et al., 2015",Attrition bias: incomplete outcome data,D8,Low
+Ramage,Original,"Nunes et al., 2015",Reporting bias: selective outcome reporting,D9,Low
+Ramage,Replication,"Nunes et al., 2015",Other sources of bias,D10,Low
+Ramage,Replication,"Nunes et al., 2015",Selection bias: baseline characteristics,D2,Unclear
+Ramage,Replication,"Nunes et al., 2015",Selection bias: allocation concealment,D3,Unclear
+Ramage,Replication,"Nunes et al., 2015",Performance bias: random housing,D4,Unclear
+Ramage,Replication,"Nunes et al., 2015",Performance bias: blinding,D5,Unclear
+Ramage,Replication,"Nunes et al., 2015",Detection bias: random outcome assessment,D6,Unclear
+Ramage,Replication,"Nunes et al., 2015",Detection bias: blinding,D7,Unclear
+Ramage,Replication,"Nunes et al., 2015",Attrition bias: incomplete outcome data,D8,Low
+Ramage,Replication,"Nunes et al., 2015",Reporting bias: selective outcome reporting,D9,High
+Ramage,Original,"Pan et al., 2018",Selection bias: sequence generation,D1,High
+Ramage,Replication,"Pan et al., 2018",Selection bias: sequence generation,D1,Unclear
+Ramage,Original,"Pan et al., 2018",Other sources of bias,D10,High
+Ramage,Original,"Pan et al., 2018",Selection bias: baseline characteristics,D2,Low
+Ramage,Original,"Pan et al., 2018",Selection bias: allocation concealment,D3,High
+Ramage,Original,"Pan et al., 2018",Performance bias: random housing,D4,High
+Ramage,Original,"Pan et al., 2018",Performance bias: blinding,D5,High
+Ramage,Original,"Pan et al., 2018",Detection bias: random outcome assessment,D6,High
+Ramage,Original,"Pan et al., 2018",Detection bias: blinding,D7,High
+Ramage,Original,"Pan et al., 2018",Attrition bias: incomplete outcome data,D8,Low
+Ramage,Original,"Pan et al., 2018",Reporting bias: selective outcome reporting,D9,Low
+Ramage,Replication,"Pan et al., 2018",Other sources of bias,D10,Low
+Ramage,Replication,"Pan et al., 2018",Selection bias: baseline characteristics,D2,Low
+Ramage,Replication,"Pan et al., 2018",Selection bias: allocation concealment,D3,Unclear
+Ramage,Replication,"Pan et al., 2018",Performance bias: random housing,D4,Unclear
+Ramage,Replication,"Pan et al., 2018",Performance bias: blinding,D5,Unclear
+Ramage,Replication,"Pan et al., 2018",Detection bias: random outcome assessment,D6,Unclear
+Ramage,Replication,"Pan et al., 2018",Detection bias: blinding,D7,Low
+Ramage,Replication,"Pan et al., 2018",Attrition bias: incomplete outcome data,D8,Unclear
+Ramage,Replication,"Pan et al., 2018",Reporting bias: selective outcome reporting,D9,Unclear
+Vojvodic,Replication,Pignataro 2013,Selection bias: sequence generation,D1,Unclear
+Vojvodic,Replication,Pignataro 2013,Selection bias: baseline characteristics,D2,Unclear
+Vojvodic,Replication,Pignataro 2013,Selection bias: allocation concealment,D3,Unclear
+Vojvodic,Replication,Pignataro 2013,Performance bias: random housing,D4,Unclear
+Vojvodic,Replication,Pignataro 2013,Performance bias: blinding,D5,Unclear
+Vojvodic,Replication,Pignataro 2013,Detection bias: random outcome assessment,D6,Unclear
+Vojvodic,Replication,Pignataro 2013,Detection bias: blinding,D7,Low
+Vojvodic,Replication,Pignataro 2013,Attrition bias: incomplete outcome data,D8,High
+Vojvodic,Replication,Pignataro 2013,Reporting bias: selective outcome reporting,D9,Low
+Vojvodic,Replication,Pignataro 2013,Other sources of bias,D10,Unclear
+Vojvodic,Original,Pignataro 2013,Selection bias: sequence generation,D1,Unclear
+Vojvodic,Original,Pignataro 2013,Selection bias: baseline characteristics,D2,Unclear
+Vojvodic,Original,Pignataro 2013,Selection bias: allocation concealment,D3,Unclear
+Vojvodic,Original,Pignataro 2013,Performance bias: random housing,D4,Unclear
+Vojvodic,Original,Pignataro 2013,Performance bias: blinding,D5,High
+Vojvodic,Original,Pignataro 2013,Detection bias: random outcome assessment,D6,Unclear
+Vojvodic,Original,Pignataro 2013,Detection bias: blinding,D7,Low
+Vojvodic,Original,Pignataro 2013,Attrition bias: incomplete outcome data,D8,High
+Vojvodic,Original,Pignataro 2013,Reporting bias: selective outcome reporting,D9,Low
+Vojvodic,Original,Pignataro 2013,Other sources of bias,D10,Low
+Vojvodic,Replication,Qi 2016,Selection bias: sequence generation,D1,Unclear
+Vojvodic,Replication,Qi 2016,Selection bias: baseline characteristics,D2,Unclear
+Vojvodic,Replication,Qi 2016,Selection bias: allocation concealment,D3,Unclear
+Vojvodic,Replication,Qi 2016,Performance bias: random housing,D4,Unclear
+Vojvodic,Replication,Qi 2016,Performance bias: blinding,D5,Unclear
+Vojvodic,Replication,Qi 2016,Detection bias: random outcome assessment,D6,Unclear
+Vojvodic,Replication,Qi 2016,Detection bias: blinding,D7,Unclear
+Vojvodic,Replication,Qi 2016,Attrition bias: incomplete outcome data,D8,Unclear
+Vojvodic,Replication,Qi 2016,Reporting bias: selective outcome reporting,D9,High
+Vojvodic,Replication,Qi 2016,Other sources of bias,D10,High
+Vojvodic,Original,Qi 2016,Selection bias: sequence generation,D1,Unclear
+Vojvodic,Original,Qi 2016,Selection bias: baseline characteristics,D2,Unclear
+Vojvodic,Original,Qi 2016,Selection bias: allocation concealment,D3,Unclear
+Vojvodic,Original,Qi 2016,Performance bias: random housing,D4,Unclear
+Vojvodic,Original,Qi 2016,Performance bias: blinding,D5,Unclear
+Vojvodic,Original,Qi 2016,Detection bias: random outcome assessment,D6,Unclear
+Vojvodic,Original,Qi 2016,Detection bias: blinding,D7,Unclear
+Vojvodic,Original,Qi 2016,Attrition bias: incomplete outcome data,D8,High
+Vojvodic,Original,Qi 2016,Reporting bias: selective outcome reporting,D9,High
+Vojvodic,Original,Qi 2016,Other sources of bias,D10,Low
+Gallas-Lopes,Replication,"Rinwa, 2013",Selection bias: sequence generation,D1,Unclear
+Gallas-Lopes,Replication,"Rinwa, 2013",Selection bias: baseline characteristics,D2,Unclear
+Gallas-Lopes,Replication,"Rinwa, 2013",Selection bias: allocation concealment,D3,Unclear
+Gallas-Lopes,Replication,"Rinwa, 2013",Performance bias: random housing,D4,Unclear
+Gallas-Lopes,Replication,"Rinwa, 2013",Performance bias: blinding,D5,High
+Gallas-Lopes,Replication,"Rinwa, 2013",Detection bias: random outcome assessment,D6,Unclear
+Gallas-Lopes,Replication,"Rinwa, 2013",Detection bias: blinding,D7,Low
+Gallas-Lopes,Replication,"Rinwa, 2013",Attrition bias: incomplete outcome data,D8,High
+Gallas-Lopes,Replication,"Rinwa, 2013",Reporting bias: selective outcome reporting,D9,Low
+Gallas-Lopes,Replication,"Rinwa, 2013",Other sources of bias,D10,High
+Gallas-Lopes,Original,"Rinwa, 2013",Selection bias: sequence generation,D1,Unclear
+Gallas-Lopes,Original,"Rinwa, 2013",Selection bias: baseline characteristics,D2,Unclear
+Gallas-Lopes,Original,"Rinwa, 2013",Selection bias: allocation concealment,D3,Unclear
+Gallas-Lopes,Original,"Rinwa, 2013",Performance bias: random housing,D4,Unclear
+Gallas-Lopes,Original,"Rinwa, 2013",Performance bias: blinding,D5,Unclear
+Gallas-Lopes,Original,"Rinwa, 2013",Detection bias: random outcome assessment,D6,Unclear
+Gallas-Lopes,Original,"Rinwa, 2013",Detection bias: blinding,D7,Unclear
+Gallas-Lopes,Original,"Rinwa, 2013",Attrition bias: incomplete outcome data,D8,Low
+Gallas-Lopes,Original,"Rinwa, 2013",Reporting bias: selective outcome reporting,D9,Low
+Gallas-Lopes,Original,"Rinwa, 2013",Other sources of bias,D10,High
+Ramage,Original,"Rocha et al., 2020",Selection bias: sequence generation,D1,High
+Ramage,Replication,"Rocha et al., 2020",Selection bias: sequence generation,D1,Unclear
+Ramage,Original,"Rocha et al., 2020",Other sources of bias,D10,Low
+Ramage,Original,"Rocha et al., 2020",Selection bias: baseline characteristics,D2,Low
+Ramage,Original,"Rocha et al., 2020",Selection bias: allocation concealment,D3,High
+Ramage,Original,"Rocha et al., 2020",Performance bias: random housing,D4,High
+Ramage,Original,"Rocha et al., 2020",Performance bias: blinding,D5,High
+Ramage,Original,"Rocha et al., 2020",Detection bias: random outcome assessment,D6,High
+Ramage,Original,"Rocha et al., 2020",Detection bias: blinding,D7,High
+Ramage,Original,"Rocha et al., 2020",Attrition bias: incomplete outcome data,D8,Low
+Ramage,Original,"Rocha et al., 2020",Reporting bias: selective outcome reporting,D9,Low
+Ramage,Replication,"Rocha et al., 2020",Other sources of bias,D10,High
+Ramage,Replication,"Rocha et al., 2020",Selection bias: baseline characteristics,D2,Low
+Ramage,Replication,"Rocha et al., 2020",Selection bias: allocation concealment,D3,Unclear
+Ramage,Replication,"Rocha et al., 2020",Performance bias: random housing,D4,Unclear
+Ramage,Replication,"Rocha et al., 2020",Performance bias: blinding,D5,High
+Ramage,Replication,"Rocha et al., 2020",Detection bias: random outcome assessment,D6,Unclear
+Ramage,Replication,"Rocha et al., 2020",Detection bias: blinding,D7,Unclear
+Ramage,Replication,"Rocha et al., 2020",Attrition bias: incomplete outcome data,D8,Low
+Ramage,Replication,"Rocha et al., 2020",Reporting bias: selective outcome reporting,D9,High
+Gallas-Lopes,Replication,"Saravi, 2016a",Selection bias: sequence generation,D1,Unclear
+Gallas-Lopes,Replication,"Saravi, 2016a",Selection bias: baseline characteristics,D2,Unclear
+Gallas-Lopes,Replication,"Saravi, 2016a",Selection bias: allocation concealment,D3,Unclear
+Gallas-Lopes,Replication,"Saravi, 2016a",Performance bias: random housing,D4,Unclear
+Gallas-Lopes,Replication,"Saravi, 2016a",Performance bias: blinding,D5,Unclear
+Gallas-Lopes,Replication,"Saravi, 2016a",Detection bias: random outcome assessment,D6,Unclear
+Gallas-Lopes,Replication,"Saravi, 2016a",Detection bias: blinding,D7,Unclear
+Gallas-Lopes,Replication,"Saravi, 2016a",Attrition bias: incomplete outcome data,D8,Low
+Gallas-Lopes,Replication,"Saravi, 2016a",Reporting bias: selective outcome reporting,D9,Low
+Gallas-Lopes,Replication,"Saravi, 2016a",Other sources of bias,D10,Unclear
+Gallas-Lopes,Original,"Saravi, 2016a",Selection bias: sequence generation,D1,Unclear
+Gallas-Lopes,Original,"Saravi, 2016a",Selection bias: baseline characteristics,D2,Unclear
+Gallas-Lopes,Original,"Saravi, 2016a",Selection bias: allocation concealment,D3,Unclear
+Gallas-Lopes,Original,"Saravi, 2016a",Performance bias: random housing,D4,Unclear
+Gallas-Lopes,Original,"Saravi, 2016a",Performance bias: blinding,D5,Unclear
+Gallas-Lopes,Original,"Saravi, 2016a",Detection bias: random outcome assessment,D6,Unclear
+Gallas-Lopes,Original,"Saravi, 2016a",Detection bias: blinding,D7,Unclear
+Gallas-Lopes,Original,"Saravi, 2016a",Attrition bias: incomplete outcome data,D8,Low
+Gallas-Lopes,Original,"Saravi, 2016a",Reporting bias: selective outcome reporting,D9,Low
+Gallas-Lopes,Original,"Saravi, 2016a",Other sources of bias,D10,Low
+Gallas-Lopes,Replication,"Saravi, 2016b",Selection bias: sequence generation,D1,Unclear
+Gallas-Lopes,Replication,"Saravi, 2016b",Selection bias: baseline characteristics,D2,Unclear
+Gallas-Lopes,Replication,"Saravi, 2016b",Selection bias: allocation concealment,D3,Unclear
+Gallas-Lopes,Replication,"Saravi, 2016b",Performance bias: random housing,D4,Unclear
+Gallas-Lopes,Replication,"Saravi, 2016b",Performance bias: blinding,D5,Unclear
+Gallas-Lopes,Replication,"Saravi, 2016b",Detection bias: random outcome assessment,D6,Unclear
+Gallas-Lopes,Replication,"Saravi, 2016b",Detection bias: blinding,D7,Low
+Gallas-Lopes,Replication,"Saravi, 2016b",Attrition bias: incomplete outcome data,D8,High
+Gallas-Lopes,Replication,"Saravi, 2016b",Reporting bias: selective outcome reporting,D9,Low
+Gallas-Lopes,Replication,"Saravi, 2016b",Other sources of bias,D10,Unclear
+Gallas-Lopes,Original,"Saravi, 2016b",Selection bias: sequence generation,D1,Unclear
+Gallas-Lopes,Original,"Saravi, 2016b",Selection bias: baseline characteristics,D2,Unclear
+Gallas-Lopes,Original,"Saravi, 2016b",Selection bias: allocation concealment,D3,Unclear
+Gallas-Lopes,Original,"Saravi, 2016b",Performance bias: random housing,D4,Unclear
+Gallas-Lopes,Original,"Saravi, 2016b",Performance bias: blinding,D5,Unclear
+Gallas-Lopes,Original,"Saravi, 2016b",Detection bias: random outcome assessment,D6,Unclear
+Gallas-Lopes,Original,"Saravi, 2016b",Detection bias: blinding,D7,Unclear
+Gallas-Lopes,Original,"Saravi, 2016b",Attrition bias: incomplete outcome data,D8,Unclear
+Gallas-Lopes,Original,"Saravi, 2016b",Reporting bias: selective outcome reporting,D9,Low
+Gallas-Lopes,Original,"Saravi, 2016b",Other sources of bias,D10,Low
+Ramage,Replication,"Schaeffer E. L., Catanozi S., West M. J., Gattaz W. F",Selection bias: sequence generation,D1,Unclear
+Ramage,Replication,"Schaeffer E. L., Catanozi S., West M. J., Gattaz W. F",Other sources of bias,D10,Unclear
+Ramage,Replication,"Schaeffer E. L., Catanozi S., West M. J., Gattaz W. F",Selection bias: baseline characteristics,D2,Low
+Ramage,Replication,"Schaeffer E. L., Catanozi S., West M. J., Gattaz W. F",Selection bias: allocation concealment,D3,Unclear
+Ramage,Replication,"Schaeffer E. L., Catanozi S., West M. J., Gattaz W. F",Performance bias: random housing,D4,Unclear
+Ramage,Replication,"Schaeffer E. L., Catanozi S., West M. J., Gattaz W. F",Performance bias: blinding,D5,High
+Ramage,Replication,"Schaeffer E. L., Catanozi S., West M. J., Gattaz W. F",Detection bias: random outcome assessment,D6,Unclear
+Ramage,Replication,"Schaeffer E. L., Catanozi S., West M. J., Gattaz W. F",Detection bias: blinding,D7,Low
+Ramage,Replication,"Schaeffer E. L., Catanozi S., West M. J., Gattaz W. F",Attrition bias: incomplete outcome data,D8,Low
+Ramage,Replication,"Schaeffer E. L., Catanozi S., West M. J., Gattaz W. F",Reporting bias: selective outcome reporting,D9,High
+Vojvodic,Replication,Shan 2013,Selection bias: sequence generation,D1,Unclear
+Vojvodic,Replication,Shan 2013,Selection bias: baseline characteristics,D2,Unclear
+Vojvodic,Replication,Shan 2013,Selection bias: allocation concealment,D3,Unclear
+Vojvodic,Replication,Shan 2013,Performance bias: random housing,D4,Unclear
+Vojvodic,Replication,Shan 2013,Performance bias: blinding,D5,Unclear
+Vojvodic,Replication,Shan 2013,Detection bias: random outcome assessment,D6,Unclear
+Vojvodic,Replication,Shan 2013,Detection bias: blinding,D7,Unclear
+Vojvodic,Replication,Shan 2013,Attrition bias: incomplete outcome data,D8,High
+Vojvodic,Replication,Shan 2013,Reporting bias: selective outcome reporting,D9,High
+Vojvodic,Replication,Shan 2013,Other sources of bias,D10,High
+Vojvodic,Original,Shan 2013,Selection bias: sequence generation,D1,Unclear
+Vojvodic,Original,Shan 2013,Selection bias: baseline characteristics,D2,Unclear
+Vojvodic,Original,Shan 2013,Selection bias: allocation concealment,D3,High
+Vojvodic,Original,Shan 2013,Performance bias: random housing,D4,Unclear
+Vojvodic,Original,Shan 2013,Performance bias: blinding,D5,High
+Vojvodic,Original,Shan 2013,Detection bias: random outcome assessment,D6,Unclear
+Vojvodic,Original,Shan 2013,Detection bias: blinding,D7,Unclear
+Vojvodic,Original,Shan 2013,Attrition bias: incomplete outcome data,D8,High
+Vojvodic,Original,Shan 2013,Reporting bias: selective outcome reporting,D9,High
+Vojvodic,Original,Shan 2013,Other sources of bias,D10,Unclear
+Ramage,Original,"Sharma and Taliyan, 2015",Selection bias: sequence generation,D1,High
+,,,,,
+Ramage,Original,"Sharma and Taliyan, 2015",Other sources of bias,D10,Low
+Ramage,Original,"Sharma and Taliyan, 2015",Selection bias: baseline characteristics,D2,Unclear
+Ramage,Original,"Sharma and Taliyan, 2015",Selection bias: allocation concealment,D3,High
+Ramage,Original,"Sharma and Taliyan, 2015",Performance bias: random housing,D4,High
+Ramage,Original,"Sharma and Taliyan, 2015",Performance bias: blinding,D5,High
+Ramage,Original,"Sharma and Taliyan, 2015",Detection bias: random outcome assessment,D6,High
+Ramage,Original,"Sharma and Taliyan, 2015",Detection bias: blinding,D7,High
+Ramage,Original,"Sharma and Taliyan, 2015",Attrition bias: incomplete outcome data,D8,Low
+Ramage,Original,"Sharma and Taliyan, 2015",Reporting bias: selective outcome reporting,D9,Low
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+Gallas-Lopes,Replication,"Singh, 2016",Selection bias: sequence generation,D1,Unclear
+Gallas-Lopes,Replication,"Singh, 2016",Selection bias: baseline characteristics,D2,Unclear
+Gallas-Lopes,Replication,"Singh, 2016",Selection bias: allocation concealment,D3,Unclear
+Gallas-Lopes,Replication,"Singh, 2016",Performance bias: random housing,D4,Unclear
+Gallas-Lopes,Replication,"Singh, 2016",Performance bias: blinding,D5,High
+Gallas-Lopes,Replication,"Singh, 2016",Detection bias: random outcome assessment,D6,Unclear
+Gallas-Lopes,Replication,"Singh, 2016",Detection bias: blinding,D7,Unclear
+Gallas-Lopes,Replication,"Singh, 2016",Attrition bias: incomplete outcome data,D8,Low
+Gallas-Lopes,Replication,"Singh, 2016",Reporting bias: selective outcome reporting,D9,High
+Gallas-Lopes,Replication,"Singh, 2016",Other sources of bias,D10,High
+Gallas-Lopes,Original,"Singh, 2016",Selection bias: sequence generation,D1,Unclear
+Gallas-Lopes,Original,"Singh, 2016",Selection bias: baseline characteristics,D2,Unclear
+Gallas-Lopes,Original,"Singh, 2016",Selection bias: allocation concealment,D3,Unclear
+Gallas-Lopes,Original,"Singh, 2016",Performance bias: random housing,D4,Unclear
+Gallas-Lopes,Original,"Singh, 2016",Performance bias: blinding,D5,Unclear
+Gallas-Lopes,Original,"Singh, 2016",Detection bias: random outcome assessment,D6,Unclear
+Gallas-Lopes,Original,"Singh, 2016",Detection bias: blinding,D7,Unclear
+Gallas-Lopes,Original,"Singh, 2016",Attrition bias: incomplete outcome data,D8,Low
+Gallas-Lopes,Original,"Singh, 2016",Reporting bias: selective outcome reporting,D9,Low
+Gallas-Lopes,Original,"Singh, 2016",Other sources of bias,D10,High
+Gallas-Lopes,Replication,"Singh, 2017",Selection bias: sequence generation,D1,Unclear
+Gallas-Lopes,Replication,"Singh, 2017",Selection bias: baseline characteristics,D2,Unclear
+Gallas-Lopes,Replication,"Singh, 2017",Selection bias: allocation concealment,D3,Unclear
+Gallas-Lopes,Replication,"Singh, 2017",Performance bias: random housing,D4,Unclear
+Gallas-Lopes,Replication,"Singh, 2017",Performance bias: blinding,D5,High
+Gallas-Lopes,Replication,"Singh, 2017",Detection bias: random outcome assessment,D6,Unclear
+Gallas-Lopes,Replication,"Singh, 2017",Detection bias: blinding,D7,Low
+Gallas-Lopes,Replication,"Singh, 2017",Attrition bias: incomplete outcome data,D8,Unclear
+Gallas-Lopes,Replication,"Singh, 2017",Reporting bias: selective outcome reporting,D9,Low
+Gallas-Lopes,Replication,"Singh, 2017",Other sources of bias,D10,High
+Gallas-Lopes,Original,"Singh, 2017",Selection bias: sequence generation,D1,Unclear
+Gallas-Lopes,Original,"Singh, 2017",Selection bias: baseline characteristics,D2,Unclear
+Gallas-Lopes,Original,"Singh, 2017",Selection bias: allocation concealment,D3,Unclear
+Gallas-Lopes,Original,"Singh, 2017",Performance bias: random housing,D4,Unclear
+Gallas-Lopes,Original,"Singh, 2017",Performance bias: blinding,D5,Unclear
+Gallas-Lopes,Original,"Singh, 2017",Detection bias: random outcome assessment,D6,Unclear
+Gallas-Lopes,Original,"Singh, 2017",Detection bias: blinding,D7,Unclear
+Gallas-Lopes,Original,"Singh, 2017",Attrition bias: incomplete outcome data,D8,Unclear
+Gallas-Lopes,Original,"Singh, 2017",Reporting bias: selective outcome reporting,D9,Low
+Gallas-Lopes,Original,"Singh, 2017",Other sources of bias,D10,Low
+Ramage,Original,"Sudduth et al., 2012",Selection bias: sequence generation,D1,High
+Ramage,Replication,"Sudduth et al., 2012",Selection bias: sequence generation,D1,Unclear
+Ramage,Original,"Sudduth et al., 2012",Other sources of bias,D10,High
+Ramage,Original,"Sudduth et al., 2012",Selection bias: baseline characteristics,D2,Low
+Ramage,Original,"Sudduth et al., 2012",Selection bias: allocation concealment,D3,High
+Ramage,Original,"Sudduth et al., 2012",Performance bias: random housing,D4,High
+Ramage,Original,"Sudduth et al., 2012",Performance bias: blinding,D5,High
+Ramage,Original,"Sudduth et al., 2012",Detection bias: random outcome assessment,D6,Low
+Ramage,Original,"Sudduth et al., 2012",Detection bias: blinding,D7,High
+Ramage,Original,"Sudduth et al., 2012",Attrition bias: incomplete outcome data,D8,Unclear
+Ramage,Original,"Sudduth et al., 2012",Reporting bias: selective outcome reporting,D9,Low
+Ramage,Replication,"Sudduth et al., 2012",Other sources of bias,D10,Unclear
+Ramage,Replication,"Sudduth et al., 2012",Selection bias: baseline characteristics,D2,Unclear
+Ramage,Replication,"Sudduth et al., 2012",Selection bias: allocation concealment,D3,Unclear
+Ramage,Replication,"Sudduth et al., 2012",Performance bias: random housing,D4,Unclear
+Ramage,Replication,"Sudduth et al., 2012",Performance bias: blinding,D5,Unclear
+Ramage,Replication,"Sudduth et al., 2012",Detection bias: random outcome assessment,D6,Unclear
+Ramage,Replication,"Sudduth et al., 2012",Detection bias: blinding,D7,Unclear
+Ramage,Replication,"Sudduth et al., 2012",Attrition bias: incomplete outcome data,D8,Low
+Ramage,Replication,"Sudduth et al., 2012",Reporting bias: selective outcome reporting,D9,Unclear
+Gallas-Lopes,Replication,"Tong, 2017",Selection bias: sequence generation,D1,Unclear
+Gallas-Lopes,Replication,"Tong, 2017",Selection bias: baseline characteristics,D2,Unclear
+Gallas-Lopes,Replication,"Tong, 2017",Selection bias: allocation concealment,D3,Unclear
+Gallas-Lopes,Replication,"Tong, 2017",Performance bias: random housing,D4,Unclear
+Gallas-Lopes,Replication,"Tong, 2017",Performance bias: blinding,D5,Unclear
+Gallas-Lopes,Replication,"Tong, 2017",Detection bias: random outcome assessment,D6,Unclear
+Gallas-Lopes,Replication,"Tong, 2017",Detection bias: blinding,D7,Unclear
+Gallas-Lopes,Replication,"Tong, 2017",Attrition bias: incomplete outcome data,D8,Low
+Gallas-Lopes,Replication,"Tong, 2017",Reporting bias: selective outcome reporting,D9,Low
+Gallas-Lopes,Replication,"Tong, 2017",Other sources of bias,D10,Unclear
+Gallas-Lopes,Original,"Tong, 2017",Selection bias: sequence generation,D1,Unclear
+Gallas-Lopes,Original,"Tong, 2017",Selection bias: baseline characteristics,D2,Unclear
+Gallas-Lopes,Original,"Tong, 2017",Selection bias: allocation concealment,D3,Unclear
+Gallas-Lopes,Original,"Tong, 2017",Performance bias: random housing,D4,Unclear
+Gallas-Lopes,Original,"Tong, 2017",Performance bias: blinding,D5,Unclear
+Gallas-Lopes,Original,"Tong, 2017",Detection bias: random outcome assessment,D6,Unclear
+Gallas-Lopes,Original,"Tong, 2017",Detection bias: blinding,D7,Unclear
+Gallas-Lopes,Original,"Tong, 2017",Attrition bias: incomplete outcome data,D8,Low
+Gallas-Lopes,Original,"Tong, 2017",Reporting bias: selective outcome reporting,D9,Low
+Gallas-Lopes,Original,"Tong, 2017",Other sources of bias,D10,Low
+Ramage,Original,"Trujillo-Estrada et al., 2013",Selection bias: sequence generation,D1,Unclear
+Ramage,Replication,"Trujillo-Estrada et al., 2013",Selection bias: sequence generation,D1,Unclear
+Ramage,Original,"Trujillo-Estrada et al., 2013",Other sources of bias,D10,High
+Ramage,Original,"Trujillo-Estrada et al., 2013",Selection bias: baseline characteristics,D2,Low
+Ramage,Original,"Trujillo-Estrada et al., 2013",Selection bias: allocation concealment,D3,Low
+Ramage,Original,"Trujillo-Estrada et al., 2013",Performance bias: random housing,D4,Unclear
+Ramage,Original,"Trujillo-Estrada et al., 2013",Performance bias: blinding,D5,High
+Ramage,Original,"Trujillo-Estrada et al., 2013",Detection bias: random outcome assessment,D6,Low
+Ramage,Original,"Trujillo-Estrada et al., 2013",Detection bias: blinding,D7,Low
+Ramage,Original,"Trujillo-Estrada et al., 2013",Attrition bias: incomplete outcome data,D8,Low
+Ramage,Original,"Trujillo-Estrada et al., 2013",Reporting bias: selective outcome reporting,D9,Low
+Ramage,Replication,"Trujillo-Estrada et al., 2013",Other sources of bias,D10,Low
+Ramage,Replication,"Trujillo-Estrada et al., 2013",Selection bias: baseline characteristics,D2,Unclear
+Ramage,Replication,"Trujillo-Estrada et al., 2013",Selection bias: allocation concealment,D3,Unclear
+Ramage,Replication,"Trujillo-Estrada et al., 2013",Performance bias: random housing,D4,Unclear
+Ramage,Replication,"Trujillo-Estrada et al., 2013",Performance bias: blinding,D5,High
+Ramage,Replication,"Trujillo-Estrada et al., 2013",Detection bias: random outcome assessment,D6,Unclear
+Ramage,Replication,"Trujillo-Estrada et al., 2013",Detection bias: blinding,D7,Low
+Ramage,Replication,"Trujillo-Estrada et al., 2013",Attrition bias: incomplete outcome data,D8,Unclear
+Ramage,Replication,"Trujillo-Estrada et al., 2013",Reporting bias: selective outcome reporting,D9,High
+Gallas-Lopes,Replication,"Wang, 2017",Selection bias: sequence generation,D1,Unclear
+Gallas-Lopes,Replication,"Wang, 2017",Selection bias: baseline characteristics,D2,Low
+Gallas-Lopes,Replication,"Wang, 2017",Selection bias: allocation concealment,D3,Unclear
+Gallas-Lopes,Replication,"Wang, 2017",Performance bias: random housing,D4,Unclear
+Gallas-Lopes,Replication,"Wang, 2017",Performance bias: blinding,D5,Unclear
+Gallas-Lopes,Replication,"Wang, 2017",Detection bias: random outcome assessment,D6,Unclear
+Gallas-Lopes,Replication,"Wang, 2017",Detection bias: blinding,D7,Unclear
+Gallas-Lopes,Replication,"Wang, 2017",Attrition bias: incomplete outcome data,D8,Low
+Gallas-Lopes,Replication,"Wang, 2017",Reporting bias: selective outcome reporting,D9,Low
+Gallas-Lopes,Replication,"Wang, 2017",Other sources of bias,D10,Low
+Gallas-Lopes,Original,"Wang, 2017",Selection bias: sequence generation,D1,Unclear
+Gallas-Lopes,Original,"Wang, 2017",Selection bias: baseline characteristics,D2,Unclear
+Gallas-Lopes,Original,"Wang, 2017",Selection bias: allocation concealment,D3,Unclear
+Gallas-Lopes,Original,"Wang, 2017",Performance bias: random housing,D4,Unclear
+Gallas-Lopes,Original,"Wang, 2017",Performance bias: blinding,D5,Unclear
+Gallas-Lopes,Original,"Wang, 2017",Detection bias: random outcome assessment,D6,Unclear
+Gallas-Lopes,Original,"Wang, 2017",Detection bias: blinding,D7,Unclear
+Gallas-Lopes,Original,"Wang, 2017",Attrition bias: incomplete outcome data,D8,Unclear
+Gallas-Lopes,Original,"Wang, 2017",Reporting bias: selective outcome reporting,D9,Low
+Gallas-Lopes,Original,"Wang, 2017",Other sources of bias,D10,Low
+Ramage,Replication,"Wilson et al., 2017",Other sources of bias,D10,Low
+Ramage,Replication,"Wilson et al., 2017",Selection bias: baseline characteristics,D2,Unclear
+Ramage,Replication,"Wilson et al., 2017",Selection bias: allocation concealment,D3,Unclear
+Ramage,Replication,"Wilson et al., 2017",Performance bias: random housing,D4,Unclear
+Ramage,Replication,"Wilson et al., 2017",Performance bias: blinding,D5,Unclear
+Ramage,Replication,"Wilson et al., 2017",Detection bias: random outcome assessment,D6,Unclear
+Ramage,Replication,"Wilson et al., 2017",Detection bias: blinding,D7,Unclear
+Ramage,Replication,"Wilson et al., 2017",Attrition bias: incomplete outcome data,D8,Unclear
+Ramage,Replication,"Wilson et al., 2017",Reporting bias: selective outcome reporting,D9,Unclear
+Ramage,Original,"Wilson et al., 2017",Selection bias: sequence generation,D1,High
+Ramage,Replication,"Wilson et al., 2017",Selection bias: sequence generation,D1,Unclear
+Ramage,Original,"Wilson et al., 2017",Other sources of bias,D10,Low
+Ramage,Original,"Wilson et al., 2017",Selection bias: baseline characteristics,D2,Low
+Ramage,Original,"Wilson et al., 2017",Selection bias: allocation concealment,D3,High
+Ramage,Original,"Wilson et al., 2017",Performance bias: random housing,D4,High
+Ramage,Original,"Wilson et al., 2017",Performance bias: blinding,D5,High
+Ramage,Original,"Wilson et al., 2017",Detection bias: random outcome assessment,D6,High
+Ramage,Original,"Wilson et al., 2017",Detection bias: blinding,D7,Low
+Ramage,Original,"Wilson et al., 2017",Attrition bias: incomplete outcome data,D8,Unclear
+Ramage,Original,"Wilson et al., 2017",Reporting bias: selective outcome reporting,D9,Low
+Ramage,Replication,"Wilson et al., 2018",Other sources of bias,D10,High
+Ramage,Replication,"Wilson et al., 2018",Selection bias: baseline characteristics,D2,Unclear
+Ramage,Replication,"Wilson et al., 2018",Selection bias: allocation concealment,D3,Unclear
+Ramage,Replication,"Wilson et al., 2018",Performance bias: random housing,D4,Unclear
+Ramage,Replication,"Wilson et al., 2018",Performance bias: blinding,D5,Unclear
+Ramage,Replication,"Wilson et al., 2018",Detection bias: random outcome assessment,D6,Unclear
+Ramage,Replication,"Wilson et al., 2018",Detection bias: blinding,D7,Unclear
+Ramage,Replication,"Wilson et al., 2018",Attrition bias: incomplete outcome data,D8,Unclear
+Ramage,Replication,"Wilson et al., 2018",Reporting bias: selective outcome reporting,D9,High
+Ramage,Original,"Wilson et al., 2018",Selection bias: sequence generation,D1,High
+Ramage,Replication,"Wilson et al., 2018",Selection bias: sequence generation,D1,Unclear
+Ramage,Original,"Wilson et al., 2018",Other sources of bias,D10,Low
+Ramage,Original,"Wilson et al., 2018",Selection bias: baseline characteristics,D2,Low
+Ramage,Original,"Wilson et al., 2018",Selection bias: allocation concealment,D3,High
+Ramage,Original,"Wilson et al., 2018",Performance bias: random housing,D4,High
+Ramage,Original,"Wilson et al., 2018",Performance bias: blinding,D5,High
+Ramage,Original,"Wilson et al., 2018",Detection bias: random outcome assessment,D6,High
+Ramage,Original,"Wilson et al., 2018",Detection bias: blinding,D7,Low
+Ramage,Original,"Wilson et al., 2018",Attrition bias: incomplete outcome data,D8,Unclear
+Ramage,Original,"Wilson et al., 2018",Reporting bias: selective outcome reporting,D9,Low
+Ramage,Replication,"Wilson et al., 2020",Other sources of bias,D10,Low
+Ramage,Replication,"Wilson et al., 2020",Selection bias: baseline characteristics,D2,Unclear
+Ramage,Replication,"Wilson et al., 2020",Selection bias: allocation concealment,D3,Unclear
+Ramage,Replication,"Wilson et al., 2020",Performance bias: random housing,D4,Unclear
+Ramage,Replication,"Wilson et al., 2020",Performance bias: blinding,D5,Unclear
+Ramage,Replication,"Wilson et al., 2020",Detection bias: random outcome assessment,D6,Unclear
+Ramage,Replication,"Wilson et al., 2020",Detection bias: blinding,D7,Unclear
+Ramage,Replication,"Wilson et al., 2020",Attrition bias: incomplete outcome data,D8,Unclear
+Ramage,Replication,"Wilson et al., 2020",Reporting bias: selective outcome reporting,D9,Unclear
+Ramage,Original,"Wilson et al., 2020",Selection bias: sequence generation,D1,High
+Ramage,Replication,"Wilson et al., 2020",Selection bias: sequence generation,D1,Unclear
+Ramage,Original,"Wilson et al., 2020",Other sources of bias,D10,Low
+Ramage,Original,"Wilson et al., 2020",Selection bias: baseline characteristics,D2,Low
+Ramage,Original,"Wilson et al., 2020",Selection bias: allocation concealment,D3,High
+Ramage,Original,"Wilson et al., 2020",Performance bias: random housing,D4,High
+Ramage,Original,"Wilson et al., 2020",Performance bias: blinding,D5,High
+Ramage,Original,"Wilson et al., 2020",Detection bias: random outcome assessment,D6,High
+Ramage,Original,"Wilson et al., 2020",Detection bias: blinding,D7,Low
+Ramage,Original,"Wilson et al., 2020",Attrition bias: incomplete outcome data,D8,Unclear
+Ramage,Original,"Wilson et al., 2020",Reporting bias: selective outcome reporting,D9,Low
+Ramage,Replication,"Wiseman A. L., Briggs C. A., Peritt A., Kapecki N., Peterson D. A., Shim S. S., Stutzmann G. E",Selection bias: sequence generation,D1,Unclear
+Ramage,Replication,"Wiseman A. L., Briggs C. A., Peritt A., Kapecki N., Peterson D. A., Shim S. S., Stutzmann G. E",Other sources of bias,D10,Low
+Ramage,Replication,"Wiseman A. L., Briggs C. A., Peritt A., Kapecki N., Peterson D. A., Shim S. S., Stutzmann G. E",Selection bias: baseline characteristics,D2,Unclear
+Ramage,Replication,"Wiseman A. L., Briggs C. A., Peritt A., Kapecki N., Peterson D. A., Shim S. S., Stutzmann G. E",Selection bias: allocation concealment,D3,Unclear
+Ramage,Replication,"Wiseman A. L., Briggs C. A., Peritt A., Kapecki N., Peterson D. A., Shim S. S., Stutzmann G. E",Performance bias: random housing,D4,Unclear
+Ramage,Replication,"Wiseman A. L., Briggs C. A., Peritt A., Kapecki N., Peterson D. A., Shim S. S., Stutzmann G. E",Performance bias: blinding,D5,Unclear
+Ramage,Replication,"Wiseman A. L., Briggs C. A., Peritt A., Kapecki N., Peterson D. A., Shim S. S., Stutzmann G. E",Detection bias: random outcome assessment,D6,Unclear
+Ramage,Replication,"Wiseman A. L., Briggs C. A., Peritt A., Kapecki N., Peterson D. A., Shim S. S., Stutzmann G. E",Detection bias: blinding,D7,Unclear
+Ramage,Replication,"Wiseman A. L., Briggs C. A., Peritt A., Kapecki N., Peterson D. A., Shim S. S., Stutzmann G. E",Attrition bias: incomplete outcome data,D8,Unclear
+Ramage,Replication,"Wiseman A. L., Briggs C. A., Peritt A., Kapecki N., Peterson D. A., Shim S. S., Stutzmann G. E",Reporting bias: selective outcome reporting,D9,High
+Ramage,Replication,"Wu Y. Y., Wang X., Tan L., Liu D., Liu X. H., Wang Q., Wang J. Z., Zhu L. Q",Selection bias: sequence generation,D1,Unclear
+Ramage,Replication,"Wu Y. Y., Wang X., Tan L., Liu D., Liu X. H., Wang Q., Wang J. Z., Zhu L. Q",Other sources of bias,D10,Unclear
+Ramage,Replication,"Wu Y. Y., Wang X., Tan L., Liu D., Liu X. H., Wang Q., Wang J. Z., Zhu L. Q",Selection bias: baseline characteristics,D2,Unclear
+Ramage,Replication,"Wu Y. Y., Wang X., Tan L., Liu D., Liu X. H., Wang Q., Wang J. Z., Zhu L. Q",Selection bias: allocation concealment,D3,Unclear
+Ramage,Replication,"Wu Y. Y., Wang X., Tan L., Liu D., Liu X. H., Wang Q., Wang J. Z., Zhu L. Q",Performance bias: random housing,D4,Unclear
+Ramage,Replication,"Wu Y. Y., Wang X., Tan L., Liu D., Liu X. H., Wang Q., Wang J. Z., Zhu L. Q",Performance bias: blinding,D5,Unclear
+Ramage,Replication,"Wu Y. Y., Wang X., Tan L., Liu D., Liu X. H., Wang Q., Wang J. Z., Zhu L. Q",Detection bias: random outcome assessment,D6,Unclear
+Ramage,Replication,"Wu Y. Y., Wang X., Tan L., Liu D., Liu X. H., Wang Q., Wang J. Z., Zhu L. Q",Detection bias: blinding,D7,Unclear
+Ramage,Replication,"Wu Y. Y., Wang X., Tan L., Liu D., Liu X. H., Wang Q., Wang J. Z., Zhu L. Q",Attrition bias: incomplete outcome data,D8,Low
+Ramage,Replication,"Wu Y. Y., Wang X., Tan L., Liu D., Liu X. H., Wang Q., Wang J. Z., Zhu L. Q",Reporting bias: selective outcome reporting,D9,Unclear
+Vojvodic,Replication,Xia 2016,Selection bias: sequence generation,D1,Unclear
+Vojvodic,Replication,Xia 2016,Selection bias: baseline characteristics,D2,Unclear
+Vojvodic,Replication,Xia 2016,Selection bias: allocation concealment,D3,Unclear
+Vojvodic,Replication,Xia 2016,Performance bias: random housing,D4,Unclear
+Vojvodic,Replication,Xia 2016,Performance bias: blinding,D5,Unclear
+Vojvodic,Replication,Xia 2016,Detection bias: random outcome assessment,D6,Unclear
+Vojvodic,Replication,Xia 2016,Detection bias: blinding,D7,Unclear
+Vojvodic,Replication,Xia 2016,Attrition bias: incomplete outcome data,D8,Unclear
+Vojvodic,Replication,Xia 2016,Reporting bias: selective outcome reporting,D9,High
+Vojvodic,Replication,Xia 2016,Other sources of bias,D10,Low
+Vojvodic,Original,Xia 2016,Selection bias: sequence generation,D1,Unclear
+Vojvodic,Original,Xia 2016,Selection bias: baseline characteristics,D2,Unclear
+Vojvodic,Original,Xia 2016,Selection bias: allocation concealment,D3,Unclear
+Vojvodic,Original,Xia 2016,Performance bias: random housing,D4,Unclear
+Vojvodic,Original,Xia 2016,Performance bias: blinding,D5,Unclear
+Vojvodic,Original,Xia 2016,Detection bias: random outcome assessment,D6,Unclear
+Vojvodic,Original,Xia 2016,Detection bias: blinding,D7,Unclear
+Vojvodic,Original,Xia 2016,Attrition bias: incomplete outcome data,D8,High
+Vojvodic,Original,Xia 2016,Reporting bias: selective outcome reporting,D9,High
+Vojvodic,Original,Xia 2016,Other sources of bias,D10,Unclear
+Ramage,Original,"Xiang et al., 2020",Selection bias: sequence generation,D1,Unclear
+Ramage,Replication,"Xiang et al., 2020",Selection bias: sequence generation,D1,Unclear
+Ramage,Original,"Xiang et al., 2020",Other sources of bias,D10,Low
+Ramage,Original,"Xiang et al., 2020",Selection bias: baseline characteristics,D2,Unclear
+Ramage,Original,"Xiang et al., 2020",Selection bias: allocation concealment,D3,Unclear
+Ramage,Original,"Xiang et al., 2020",Performance bias: random housing,D4,High
+Ramage,Original,"Xiang et al., 2020",Performance bias: blinding,D5,High
+Ramage,Original,"Xiang et al., 2020",Detection bias: random outcome assessment,D6,High
+Ramage,Original,"Xiang et al., 2020",Detection bias: blinding,D7,High
+Ramage,Original,"Xiang et al., 2020",Attrition bias: incomplete outcome data,D8,Unclear
+Ramage,Original,"Xiang et al., 2020",Reporting bias: selective outcome reporting,D9,Low
+Ramage,Replication,"Xiang et al., 2020",Other sources of bias,D10,Unclear
+Ramage,Replication,"Xiang et al., 2020",Selection bias: baseline characteristics,D2,Unclear
+Ramage,Replication,"Xiang et al., 2020",Selection bias: allocation concealment,D3,Unclear
+Ramage,Replication,"Xiang et al., 2020",Performance bias: random housing,D4,Unclear
+Ramage,Replication,"Xiang et al., 2020",Performance bias: blinding,D5,Unclear
+Ramage,Replication,"Xiang et al., 2020",Detection bias: random outcome assessment,D6,Unclear
+Ramage,Replication,"Xiang et al., 2020",Detection bias: blinding,D7,Unclear
+Ramage,Replication,"Xiang et al., 2020",Attrition bias: incomplete outcome data,D8,Low
+Ramage,Replication,"Xiang et al., 2020",Reporting bias: selective outcome reporting,D9,Unclear
+Gallas-Lopes,Replication,"Xu, 2017",Selection bias: sequence generation,D1,Unclear
+Gallas-Lopes,Replication,"Xu, 2017",Selection bias: baseline characteristics,D2,Low
+Gallas-Lopes,Replication,"Xu, 2017",Selection bias: allocation concealment,D3,Unclear
+Gallas-Lopes,Replication,"Xu, 2017",Performance bias: random housing,D4,Unclear
+Gallas-Lopes,Replication,"Xu, 2017",Performance bias: blinding,D5,Unclear
+Gallas-Lopes,Replication,"Xu, 2017",Detection bias: random outcome assessment,D6,Unclear
+Gallas-Lopes,Replication,"Xu, 2017",Detection bias: blinding,D7,Unclear
+Gallas-Lopes,Replication,"Xu, 2017",Attrition bias: incomplete outcome data,D8,Low
+Gallas-Lopes,Replication,"Xu, 2017",Reporting bias: selective outcome reporting,D9,Low
+Gallas-Lopes,Replication,"Xu, 2017",Other sources of bias,D10,High
+Gallas-Lopes,Original,"Xu, 2017",Selection bias: sequence generation,D1,Unclear
+Gallas-Lopes,Original,"Xu, 2017",Selection bias: baseline characteristics,D2,Unclear
+Gallas-Lopes,Original,"Xu, 2017",Selection bias: allocation concealment,D3,Unclear
+Gallas-Lopes,Original,"Xu, 2017",Performance bias: random housing,D4,Unclear
+Gallas-Lopes,Original,"Xu, 2017",Performance bias: blinding,D5,Unclear
+Gallas-Lopes,Original,"Xu, 2017",Detection bias: random outcome assessment,D6,Unclear
+Gallas-Lopes,Original,"Xu, 2017",Detection bias: blinding,D7,Unclear
+Gallas-Lopes,Original,"Xu, 2017",Attrition bias: incomplete outcome data,D8,Low
+Gallas-Lopes,Original,"Xu, 2017",Reporting bias: selective outcome reporting,D9,Low
+Gallas-Lopes,Original,"Xu, 2017",Other sources of bias,D10,High
+Ramage,Original,"Zhang et al., 2014",Selection bias: sequence generation,D1,Unclear
+Ramage,Replication,"Zhang et al., 2014",Selection bias: sequence generation,D1,Unclear
+Ramage,Original,"Zhang et al., 2014",Other sources of bias,D10,Low
+Ramage,Original,"Zhang et al., 2014",Selection bias: baseline characteristics,D2,Low
+Ramage,Original,"Zhang et al., 2014",Selection bias: allocation concealment,D3,Unclear
+Ramage,Original,"Zhang et al., 2014",Performance bias: random housing,D4,High
+Ramage,Original,"Zhang et al., 2014",Performance bias: blinding,D5,High
+Ramage,Original,"Zhang et al., 2014",Detection bias: random outcome assessment,D6,Low
+Ramage,Original,"Zhang et al., 2014",Detection bias: blinding,D7,High
+Ramage,Original,"Zhang et al., 2014",Attrition bias: incomplete outcome data,D8,Low
+Ramage,Original,"Zhang et al., 2014",Reporting bias: selective outcome reporting,D9,Low
+Ramage,Replication,"Zhang et al., 2014",Other sources of bias,D10,Unclear
+Ramage,Replication,"Zhang et al., 2014",Selection bias: baseline characteristics,D2,Unclear
+Ramage,Replication,"Zhang et al., 2014",Selection bias: allocation concealment,D3,Unclear
+Ramage,Replication,"Zhang et al., 2014",Performance bias: random housing,D4,Unclear
+Ramage,Replication,"Zhang et al., 2014",Performance bias: blinding,D5,Unclear
+Ramage,Replication,"Zhang et al., 2014",Detection bias: random outcome assessment,D6,Unclear
+Ramage,Replication,"Zhang et al., 2014",Detection bias: blinding,D7,Unclear
+Ramage,Replication,"Zhang et al., 2014",Attrition bias: incomplete outcome data,D8,Unclear
+Ramage,Replication,"Zhang et al., 2014",Reporting bias: selective outcome reporting,D9,Unclear
+Ramage,Original,"Zhao et al., 2014",Selection bias: sequence generation,D1,Unclear
+Ramage,Replication,"Zhao et al., 2014",Selection bias: sequence generation,D1,Unclear
+Ramage,Original,"Zhao et al., 2014",Other sources of bias,D10,Low
+Ramage,Original,"Zhao et al., 2014",Selection bias: baseline characteristics,D2,Low
+Ramage,Original,"Zhao et al., 2014",Selection bias: allocation concealment,D3,Unclear
+Ramage,Original,"Zhao et al., 2014",Performance bias: random housing,D4,Unclear
+Ramage,Original,"Zhao et al., 2014",Performance bias: blinding,D5,High
+Ramage,Original,"Zhao et al., 2014",Detection bias: random outcome assessment,D6,High
+Ramage,Original,"Zhao et al., 2014",Detection bias: blinding,D7,High
+Ramage,Original,"Zhao et al., 2014",Attrition bias: incomplete outcome data,D8,Low
+Ramage,Original,"Zhao et al., 2014",Reporting bias: selective outcome reporting,D9,Low
+Ramage,Replication,"Zhao et al., 2014",Other sources of bias,D10,Unclear
+Ramage,Replication,"Zhao et al., 2014",Selection bias: baseline characteristics,D2,Unclear
+Ramage,Replication,"Zhao et al., 2014",Selection bias: allocation concealment,D3,Unclear
+Ramage,Replication,"Zhao et al., 2014",Performance bias: random housing,D4,Unclear
+Ramage,Replication,"Zhao et al., 2014",Performance bias: blinding,D5,Unclear
+Ramage,Replication,"Zhao et al., 2014",Detection bias: random outcome assessment,D6,Unclear
+Ramage,Replication,"Zhao et al., 2014",Detection bias: blinding,D7,Unclear
+Ramage,Replication,"Zhao et al., 2014",Attrition bias: incomplete outcome data,D8,Unclear
+Ramage,Replication,"Zhao et al., 2014",Reporting bias: selective outcome reporting,D9,Unclear
+Ramage,Original,"Zhao et al., 2019",Other sources of bias,D10,Low
+Gallas-Lopes,Replication,"Zheng, 2014",Selection bias: sequence generation,D1,Unclear
+Gallas-Lopes,Replication,"Zheng, 2014",Selection bias: baseline characteristics,D2,Unclear
+Gallas-Lopes,Replication,"Zheng, 2014",Selection bias: allocation concealment,D3,Unclear
+Gallas-Lopes,Replication,"Zheng, 2014",Performance bias: random housing,D4,Unclear
+Gallas-Lopes,Replication,"Zheng, 2014",Performance bias: blinding,D5,Unclear
+Gallas-Lopes,Replication,"Zheng, 2014",Detection bias: random outcome assessment,D6,Unclear
+Gallas-Lopes,Replication,"Zheng, 2014",Detection bias: blinding,D7,Unclear
+Gallas-Lopes,Replication,"Zheng, 2014",Attrition bias: incomplete outcome data,D8,Low
+Gallas-Lopes,Replication,"Zheng, 2014",Reporting bias: selective outcome reporting,D9,Unclear
+Gallas-Lopes,Replication,"Zheng, 2014",Other sources of bias,D10,Low
+Gallas-Lopes,Original,"Zheng, 2014",Selection bias: sequence generation,D1,Unclear
+Gallas-Lopes,Original,"Zheng, 2014",Selection bias: baseline characteristics,D2,Unclear
+Gallas-Lopes,Original,"Zheng, 2014",Selection bias: allocation concealment,D3,Unclear
+Gallas-Lopes,Original,"Zheng, 2014",Performance bias: random housing,D4,Unclear
+Gallas-Lopes,Original,"Zheng, 2014",Performance bias: blinding,D5,Unclear
+Gallas-Lopes,Original,"Zheng, 2014",Detection bias: random outcome assessment,D6,Unclear
+Gallas-Lopes,Original,"Zheng, 2014",Detection bias: blinding,D7,Unclear
+Gallas-Lopes,Original,"Zheng, 2014",Attrition bias: incomplete outcome data,D8,Low
+Gallas-Lopes,Original,"Zheng, 2014",Reporting bias: selective outcome reporting,D9,Low
+Gallas-Lopes,Original,"Zheng, 2014",Other sources of bias,D10,Low
+Gallas-Lopes,Replication,"Zheng, 2015",Selection bias: sequence generation,D1,Unclear
+Gallas-Lopes,Replication,"Zheng, 2015",Selection bias: baseline characteristics,D2,Low
+Gallas-Lopes,Replication,"Zheng, 2015",Selection bias: allocation concealment,D3,Unclear
+Gallas-Lopes,Replication,"Zheng, 2015",Performance bias: random housing,D4,Unclear
+Gallas-Lopes,Replication,"Zheng, 2015",Performance bias: blinding,D5,High
+Gallas-Lopes,Replication,"Zheng, 2015",Detection bias: random outcome assessment,D6,Unclear
+Gallas-Lopes,Replication,"Zheng, 2015",Detection bias: blinding,D7,Unclear
+Gallas-Lopes,Replication,"Zheng, 2015",Attrition bias: incomplete outcome data,D8,Unclear
+Gallas-Lopes,Replication,"Zheng, 2015",Reporting bias: selective outcome reporting,D9,High
+Gallas-Lopes,Replication,"Zheng, 2015",Other sources of bias,D10,High
+Gallas-Lopes,Original,"Zheng, 2015",Selection bias: sequence generation,D1,Unclear
+Gallas-Lopes,Original,"Zheng, 2015",Selection bias: baseline characteristics,D2,Unclear
+Gallas-Lopes,Original,"Zheng, 2015",Selection bias: allocation concealment,D3,Unclear
+Gallas-Lopes,Original,"Zheng, 2015",Performance bias: random housing,D4,Unclear
+Gallas-Lopes,Original,"Zheng, 2015",Performance bias: blinding,D5,Unclear
+Gallas-Lopes,Original,"Zheng, 2015",Detection bias: random outcome assessment,D6,Unclear
+Gallas-Lopes,Original,"Zheng, 2015",Detection bias: blinding,D7,Unclear
+Gallas-Lopes,Original,"Zheng, 2015",Attrition bias: incomplete outcome data,D8,Unclear
+Gallas-Lopes,Original,"Zheng, 2015",Reporting bias: selective outcome reporting,D9,Low
+Gallas-Lopes,Original,"Zheng, 2015",Other sources of bias,D10,Low
