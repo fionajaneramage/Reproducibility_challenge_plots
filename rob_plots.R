@@ -92,6 +92,14 @@ plot_individual <- ggplot(
     plot.margin = margin(10, 15, 10, 10)
   )
 
+plot_individual <- plot_individual +
+  labs(tag = "A") +
+  theme(
+    plot.tag = element_text(size = 18, face = "bold"),
+    plot.tag.position = c(0, 1),       # top-left *inside* plot area
+    plot.margin = margin(20, 20, 20, 20)   # create space
+  )
+
 plot_individual
 
 ggsave(
@@ -160,6 +168,14 @@ plot_avgs <- ggplot(
     legend.position = "none",  
     
     plot.margin = margin(10, 15, 10, 10)
+  )
+
+plot_avgs <- plot_avgs +
+  labs(tag = "B") +
+  theme(
+    plot.tag = element_text(size = 18, face = "bold"),
+    plot.tag.position = c(0, 1),       # top-left *inside* plot area
+    plot.margin = margin(20, 20, 20, 20)   # create space
   )
 
 plot_avgs
