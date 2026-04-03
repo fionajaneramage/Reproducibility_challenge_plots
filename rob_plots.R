@@ -25,7 +25,7 @@ RoB_individual <- Risk_of_bias_per_study %>%
   mutate(perc = count / total * 100) 
 
 # Custom legend order
-legend_order <- c("Gallas-Lopes", "Vojvodic", "Ramage")
+legend_order <- c("Gallas-Lopes", "Ramage", "Vojvodic")
 
 Concordance <- RoB_individual %>%
   filter(match == "yes") %>%
@@ -39,8 +39,8 @@ Concordance <- RoB_individual %>%
 cols <- c(
   # replace the two below with your actual author names from base_labels
   "Gallas-Lopes"  =  viridis::viridis(4)[1],
-  "Vojvodic"  =   viridis::viridis(4)[2],
-  "Ramage" =  viridis::viridis(4)[3]
+  "Ramage" =  viridis::viridis(4)[3], 
+  "Vojvodic"  =   viridis::viridis(4)[2]
 )
 
 plot_individual <- ggplot(
