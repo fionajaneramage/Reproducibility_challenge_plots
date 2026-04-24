@@ -39,6 +39,7 @@ df_long <- meta_analysis %>%
                                levels = c("Original",
                                           sort(unique(Method_label[Method_label != "Original"])))))
 
+
 p_infarct2  <- df_long %>%
   filter(Outcome == "Infarct volume") %>%
   ggplot(aes(x = ES, y = Method_label, color = Type)) +
@@ -55,8 +56,11 @@ p_infarct2  <- df_long %>%
     values = c("Original" = viridis::viridis(4)[3],
                "Replication" = viridis::viridis(4)[2])) +
   expand_limits(x = 0) +
-  ggtitle("Economou\nReduction in Infarct") +
-  geom_vline(xintercept = 0, linetype = "dashed", color = "grey40")
+  ggtitle("Economou\nInfarct volume")+
+  geom_vline(xintercept = 0, linetype = "dashed", color = "grey40") +
+  labs(tag = "C") +
+  theme(text = element_text(size = 15), axis.text = element_text(size = 17), axis.title = element_text(size = 17))
+
 
 p_dep  <- df_long %>%
   filter(Outcome == "Depressive-like behaviours") %>%
@@ -75,7 +79,10 @@ p_dep  <- df_long %>%
                "Replication" = viridis::viridis(4)[2])) +
   expand_limits(x = 0) +
   ggtitle("Gallas-Lopes\nDepressive-like behaviour") +
-  geom_vline(xintercept = 0, linetype = "dashed", color = "grey40")
+  geom_vline(xintercept = 0, linetype = "dashed", color = "grey40") +
+  labs(tag = "A") + 
+  theme(text = element_text(size = 15), axis.text = element_text(size = 17), axis.title = element_text(size = 17))
+
 
 p_infarct1 <- df_long %>%
   filter(Outcome == "% reduction in infarct size") %>%
@@ -93,8 +100,10 @@ p_infarct1 <- df_long %>%
     values = c("Original" = viridis::viridis(4)[3],
                "Replication" = viridis::viridis(4)[2])) +
   expand_limits(x = 0) +
-  ggtitle("Lalu\nReduction in Infarct") +
-  geom_vline(xintercept = 0, linetype = "dashed", color = "grey40")
+  ggtitle("Tangamornsuksan\nInfarct volume")+
+  geom_vline(xintercept = 0, linetype = "dashed", color = "grey40") +
+  labs(tag = "B") +
+  theme(text = element_text(size = 15), axis.text = element_text(size = 17), axis.title = element_text(size = 17))
 
 p_mwm <- df_long %>%
   filter(Outcome == "MWM") %>%
@@ -106,14 +115,16 @@ p_mwm <- df_long %>%
   geom_point(size=3) +
   labs(x = "SMD (95% CIs)", y = "") +
   theme_bw() +
-  coord_flip()+
+  coord_flip() +
   theme(legend.position = "none") +
   scale_color_manual(
     values = c("Original" = viridis::viridis(4)[3],
                "Replication" = viridis::viridis(4)[2])) +
-  expand_limits(x = 0) +
   ggtitle("Ramage\nMorris water maze") +
-  geom_vline(xintercept = 0, linetype = "dashed", color = "grey40")
+  geom_vline(xintercept = 0, linetype = "dashed", color = "grey40") +
+  labs(tag = "E") +
+  theme(text = element_text(size = 15), axis.text = element_text(size = 17), axis.title = element_text(size = 17)) +
+  scale_x_continuous(labels = scales::number_format(accuracy = 0.1))
 
 
 p_nor <- df_long %>%
@@ -133,7 +144,10 @@ p_nor <- df_long %>%
     values = c("Original" = viridis::viridis(4)[3],
                "Replication" = viridis::viridis(4)[2])) +
   ggtitle("Ramage\nNovel object recognition") +
-  geom_vline(xintercept = 0, linetype = "dashed", color = "grey40")
+  geom_vline(xintercept = 0, linetype = "dashed", color = "grey40") +
+  labs(tag = "D") +
+  theme(text = element_text(size = 15), axis.text = element_text(size = 17), axis.title = element_text(size = 17))+
+  scale_x_continuous(labels = scales::number_format(accuracy = 0.1))
 
 combined_plot <- 
   (p_dep + p_infarct1) /
@@ -142,7 +156,7 @@ combined_plot <-
   plot_layout(heights = c(1, 1, 1.2)) +
   plot_annotation(
     title = "Effect sizes in Original SRs and Replications",
-    theme = theme(plot.title = element_text(size = 16, face = "bold"))
+    theme = theme(plot.title = element_text(size = 20, face = "bold"))
   )
 
 combined_plot
@@ -155,3 +169,4 @@ ggsave(
   units = "in",
   dpi = 600
 )
+
