@@ -127,7 +127,7 @@ Overall_summary <- RoB_individual %>%
 # Use manual fill scale with your colors
 plot_avgs <- ggplot(
   Overall_summary,
-  aes(x = Domain_short, y = overall_concordance, fill = Domain_short)
+  aes(x = Domain_short, y = overall_concordance)
 ) +
   geom_col(
     width = 0.7,
@@ -144,7 +144,6 @@ plot_avgs <- ggplot(
   scale_x_discrete(
     expand = expansion(mult = c(0.05, 0.05))
   ) +
-  scale_fill_manual(values = viridis::viridis(10), name = "Domain") +
   labs(
     title = "SYRCLE RoB evaluation concordance",
     subtitle = "Overall agreement between original systematic reviews and replications, per domain",
